@@ -31,9 +31,8 @@ $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
                   $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx
 	fontmake --keep-overlaps --no-production-names --keep-direction -o ttf -u $<
-	@FILE=$$(ls -t $(MASTER_DIR) | head -1); \
-	mv $(MASTER_DIR)/$$FILE $@;
-	@rm -r $(MASTER_DIR)
+	FILE=$$(python tools/print-fontmake-name.py $<); \
+	mv $(MASTER_DIR)/$$FILE.ttf $@;
 	@python -m vttLib merge $< $@
 
 $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
@@ -48,6 +47,7 @@ $(LEGACY_KERN_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(BUILD_DIR)/%.ttf
 clean:
 	@rm -rf $(BUILD_DIR)
 	@rm -f $(VTT_TTF) $(VTT_MONO_TTF)
+	@rm -rf $(MASTER_DIR)
 
 update-requirements:
 	@bash tools/update-requirements.sh
