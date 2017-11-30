@@ -1,7 +1,7 @@
-
 ufo2ft==0.6.2
 --find-links https://github.com/daltonmaag/vttLib/releases
 vttLib==0.7.6
+ufonormalizer==0.3.2
 
 # Subrequirements by the above packages
 fonttools==3.20.1
