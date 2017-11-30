@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/usr/bin/env python
 #
 # Takes an .ufo file directory and prints the name fontmake 1.3.0 constructs for
 # the output binary. Used in the Makefile to find the file that a fontmake run
