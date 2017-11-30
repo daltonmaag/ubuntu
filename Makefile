@@ -36,5 +36,8 @@ clean:
 	@rm -rf $(BUILD_DIR)
 	@rm -f $(VTT_TTF) $(VTT_MONO_TTF)
 
+normalize:
+	$(foreach ufo, $(wildcard $(SRC_DIR)/*.ufo), ufonormalizer -m $(ufo);)
+
 update-requirements:
 	@bash tools/update-requirements.sh

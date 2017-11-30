@@ -40,6 +40,14 @@ Build fonts to edit TrueType instructions in VTT (placed next to the UFO)
 $ make vtt
 ```
 
+When working on the fonts, "normalize" them before you check them in. Tools
+tend to format the underlying files however they want, leading to large,
+pointless differences to what's in the repository.
+```
+$ pip install ufonormalize # Install this first.
+$ make normalize
+```
+
 -----------------------------
 # Add hdmx, LTSH, VDMX tables
 
