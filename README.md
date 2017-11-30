@@ -1,7 +1,7 @@
 # Ubuntu Font Family
 
 The Ubuntu Font Family are a set of matching new libre/open fonts in
-development during 2010--2011.  And with further expansion work and
+development during 2010--2011, with further expansion work and
 bug fixing during 2015.  The development is being funded by
 Canonical Ltd on behalf the wider Free Software community and the
 Ubuntu project.  The technical font design work and implementation is
@@ -25,14 +25,9 @@ Install dependencies
 $ pip install -r requirements.txt
 ```
 
-Build fonts
+Build fonts and put them inside the `build/` directory.
 ```
 $ make
-```
-
-Add legacy kern table
-```
-$ make kerntable
 ```
 
 Build fonts to edit TrueType instructions in VTT (placed next to the UFO)

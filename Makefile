@@ -19,7 +19,7 @@ LEGACY_KERN_TTF=$(ALL_FONTS:%=$(LEGACY_KERN_DIR)/$(NORMAL_NAME)-%.ttf)
 
 all: ttf
 
-ttf: $(TTF) $(MONO_TTF)
+ttf: $(TTF) $(MONO_TTF) $(LEGACY_KERN_TTF)
 
 vtt: $(VTT_TTF) $(VTT_MONO_TTF)
 
@@ -29,17 +29,18 @@ $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/features.fea \
                   $(SRC_DIR)/%.ufo/glyphs*/*.glif \
                   $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
-                  $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx
-	fontmake --keep-overlaps --no-production-names --keep-direction -o ttf -u $<
-	@FILE=$$(ls -t $(MASTER_DIR) | head -1); \
-	mv $(MASTER_DIR)/$$FILE $@;
-	@rm -r $(MASTER_DIR)
+                  $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx \
+									$(SRC_DIR)/%.ufo/data/com.daltonmaag.vttLib.plist
+	@mkdir -p $(BUILD_DIR)
+	cd $(BUILD_DIR) && \
+		fontmake --keep-overlaps --no-production-names --keep-direction -o ttf -u $(realpath $<)
+	FILE=$$(python tools/print-fontmake-name.py $<); \
+	mv $(BUILD_DIR)/$(MASTER_DIR)/$$FILE.ttf $@;
 	@python -m vttLib merge $< $@
 
 $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
 	@mkdir -p $(BUILD_DIR)
 	@python -m vttLib compile --ship $< $@
-
 
 $(LEGACY_KERN_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(BUILD_DIR)/%.ttf
 		@mkdir -p $(LEGACY_KERN_DIR)
