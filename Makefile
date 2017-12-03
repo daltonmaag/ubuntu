@@ -26,6 +26,7 @@ $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
                   $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx \
                   $(SRC_DIR)/%.ufo/data/com.daltonmaag.vttLib.plist
+	ufonormalizer -m $<
 	python tools/build.py $< $@
 
 $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
@@ -35,9 +36,6 @@ $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
 clean:
 	@rm -rf $(BUILD_DIR)
 	@rm -f $(VTT_TTF) $(VTT_MONO_TTF)
-
-normalize:
-	$(foreach ufo, $(wildcard $(SRC_DIR)/*.ufo), ufonormalizer -m $(ufo);)
 
 update-requirements:
 	@bash tools/update-requirements.sh
