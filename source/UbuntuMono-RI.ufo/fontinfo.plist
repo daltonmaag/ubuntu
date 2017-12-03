@@ -49,6 +49,10 @@
 		<integer>9</integer>
 		<key>openTypeHheaAscender</key>
 		<integer>830</integer>
+		<key>openTypeHheaCaretSlopeRise</key>
+		<integer>1000</integer>
+		<key>openTypeHheaCaretSlopeRun</key>
+		<integer>240</integer>
 		<key>openTypeHheaDescender</key>
 		<integer>-170</integer>
 		<key>openTypeHheaLineGap</key>
