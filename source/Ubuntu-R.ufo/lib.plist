@@ -7,35 +7,6 @@
 			<string>.notdef</string>
 			<string>.null</string>
 			<string>nonmarkingreturn</string>
-			<string>glyph3</string>
-			<string>glyph4</string>
-			<string>glyph5</string>
-			<string>glyph6</string>
-			<string>glyph7</string>
-			<string>glyph8</string>
-			<string>glyph9</string>
-			<string>glyph10</string>
-			<string>glyph11</string>
-			<string>glyph12</string>
-			<string>glyph13</string>
-			<string>glyph14</string>
-			<string>glyph15</string>
-			<string>glyph16</string>
-			<string>glyph17</string>
-			<string>glyph18</string>
-			<string>glyph19</string>
-			<string>glyph20</string>
-			<string>glyph21</string>
-			<string>glyph22</string>
-			<string>glyph23</string>
-			<string>glyph24</string>
-			<string>glyph25</string>
-			<string>glyph26</string>
-			<string>glyph27</string>
-			<string>glyph28</string>
-			<string>glyph29</string>
-			<string>glyph30</string>
-			<string>glyph31</string>
 			<string>space</string>
 			<string>exclam</string>
 			<string>quotedbl</string>
@@ -131,9 +102,7 @@
 			<string>bar</string>
 			<string>braceright</string>
 			<string>asciitilde</string>
-			<string>glyph127</string>
 			<string>Euro</string>
-			<string>glyph129</string>
 			<string>quotesinglbase</string>
 			<string>florin</string>
 			<string>quotedblbase</string>
@@ -145,10 +114,6 @@
 			<string>Scaron</string>
 			<string>guilsinglleft</string>
 			<string>OE</string>
-			<string>glyph141</string>
-			<string>glyph142</string>
-			<string>glyph143</string>
-			<string>glyph144</string>
 			<string>quoteleft</string>
 			<string>quoteright</string>
 			<string>quotedblleft</string>
@@ -161,8 +126,6 @@
 			<string>scaron</string>
 			<string>guilsinglright</string>
 			<string>oe</string>
-			<string>glyph157</string>
-			<string>glyph158</string>
 			<string>Ydieresis</string>
 			<string>uni00A0</string>
 			<string>exclamdown</string>
@@ -475,15 +438,6 @@
 			<string>f_l</string>
 			<string>f_f_i</string>
 			<string>f_f_l</string>
-			<string>glyph471</string>
-			<string>ampersand.001</string>
-			<string>glyph473</string>
-			<string>glyph474</string>
-			<string>glyph475</string>
-			<string>glyph476</string>
-			<string>glyph477</string>
-			<string>uni2009</string>
-			<string>uni200A</string>
 			<string>zero.alt</string>
 			<string>one.alt</string>
 			<string>two.alt</string>
@@ -514,40 +468,10 @@
 			<string>seven.sinf</string>
 			<string>eight.sinf</string>
 			<string>nine.sinf</string>
-			<string>glyph510</string>
-			<string>glyph511</string>
-			<string>glyph512</string>
-			<string>glyph513</string>
-			<string>glyph514</string>
-			<string>glyph515</string>
-			<string>glyph516</string>
-			<string>glyph517</string>
-			<string>glyph518</string>
-			<string>glyph519</string>
-			<string>glyph520</string>
-			<string>glyph521</string>
-			<string>glyph522</string>
-			<string>glyph523</string>
-			<string>glyph524</string>
-			<string>glyph525</string>
 			<string>caron.alt</string>
 			<string>caron.alt.short</string>
 			<string>commaaccent</string>
 			<string>revcommaaccent</string>
-			<string>glyph530</string>
-			<string>glyph531</string>
-			<string>glyph532</string>
-			<string>glyph533</string>
-			<string>glyph534</string>
-			<string>glyph535</string>
-			<string>glyph536</string>
-			<string>glyph537</string>
-			<string>glyph538</string>
-			<string>glyph539</string>
-			<string>glyph540</string>
-			<string>glyph541</string>
-			<string>glyph542</string>
-			<string>glyph543</string>
 			<string>Parenleft</string>
 			<string>Parenright</string>
 			<string>Hyphen</string>
@@ -567,19 +491,6 @@
 			<string>Guillemotleft</string>
 			<string>Guillemotright</string>
 			<string>Questiondown</string>
-			<string>glyph563</string>
-			<string>glyph564</string>
-			<string>glyph565</string>
-			<string>glyph566</string>
-			<string>glyph567</string>
-			<string>glyph568</string>
-			<string>glyph569</string>
-			<string>glyph570</string>
-			<string>glyph571</string>
-			<string>glyph572</string>
-			<string>glyph573</string>
-			<string>glyph574</string>
-			<string>glyph575</string>
 			<string>uni0180</string>
 			<string>uni0181</string>
 			<string>uni0182</string>
@@ -783,10 +694,6 @@
 			<string>uni024E</string>
 			<string>uni024F</string>
 			<string>uni0292</string>
-			<string>glyph779</string>
-			<string>glyph780</string>
-			<string>macron_acute.ita</string>
-			<string>glyph782</string>
 			<string>breve_inverted</string>
 			<string>double_grave</string>
 			<string>ring_acute</string>
@@ -796,11 +703,9 @@
 			<string>dieresis_acute</string>
 			<string>dieresis_breve</string>
 			<string>tilde_macron</string>
-			<string>glyph792</string>
 			<string>acute.asc</string>
 			<string>circumflex.asc</string>
 			<string>caron.asc</string>
-			<string>glyph796</string>
 			<string>dieresis_grave.cap</string>
 			<string>dieresis_acute.cap</string>
 			<string>dieresis_breve.cap</string>
@@ -820,22 +725,6 @@
 			<string>uni040D</string>
 			<string>afii10062</string>
 			<string>afii10145</string>
-			<string>glyph816</string>
-			<string>glyph817</string>
-			<string>glyph818</string>
-			<string>glyph819</string>
-			<string>glyph820</string>
-			<string>glyph821</string>
-			<string>glyph822</string>
-			<string>glyph823</string>
-			<string>glyph824</string>
-			<string>glyph825</string>
-			<string>glyph826</string>
-			<string>glyph827</string>
-			<string>glyph828</string>
-			<string>glyph829</string>
-			<string>glyph830</string>
-			<string>glyph831</string>
 			<string>afii10017</string>
 			<string>afii10018</string>
 			<string>afii10019</string>
@@ -916,22 +805,7 @@
 			<string>uni045D</string>
 			<string>afii10110</string>
 			<string>afii10193</string>
-			<string>glyph912</string>
 			<string>afii10066.locl</string>
-			<string>glyph914</string>
-			<string>afii10068.locl.ita</string>
-			<string>afii10069.locl.ita</string>
-			<string>afii10081.locl.ita</string>
-			<string>afii10084.locl.ita</string>
-			<string>glyph919</string>
-			<string>afii10068.mace.locl.ita</string>
-			<string>afii10100.mace.locl.ita</string>
-			<string>glyph922</string>
-			<string>glyph923</string>
-			<string>glyph924</string>
-			<string>glyph925</string>
-			<string>glyph926</string>
-			<string>glyph927</string>
 			<string>uni0462</string>
 			<string>uni0463</string>
 			<string>uni0472</string>
@@ -1057,9 +931,6 @@
 			<string>tenge</string>
 			<string>rouble</string>
 			<string>kratka</string>
-			<string>glyph1053</string>
-			<string>glyph1054</string>
-			<string>glyph1055</string>
 			<string>Alpha</string>
 			<string>Beta</string>
 			<string>Gamma</string>
@@ -1077,7 +948,6 @@
 			<string>Omicron</string>
 			<string>Pi</string>
 			<string>Rho</string>
-			<string>glyph1073</string>
 			<string>Sigma</string>
 			<string>Tau</string>
 			<string>Upsilon</string>
@@ -1085,13 +955,6 @@
 			<string>Chi</string>
 			<string>Psi</string>
 			<string>Omega</string>
-			<string>glyph1081</string>
-			<string>glyph1082</string>
-			<string>glyph1083</string>
-			<string>glyph1084</string>
-			<string>glyph1085</string>
-			<string>glyph1086</string>
-			<string>glyph1087</string>
 			<string>alpha</string>
 			<string>beta</string>
 			<string>gamma</string>
@@ -1117,13 +980,6 @@
 			<string>chi</string>
 			<string>psi</string>
 			<string>omega</string>
-			<string>glyph1113</string>
-			<string>glyph1114</string>
-			<string>glyph1115</string>
-			<string>glyph1116</string>
-			<string>glyph1117</string>
-			<string>glyph1118</string>
-			<string>glyph1119</string>
 			<string>Alphatonos</string>
 			<string>Epsilontonos</string>
 			<string>Etatonos</string>
@@ -1133,29 +989,6 @@
 			<string>Upsilontonos</string>
 			<string>Upsilondieresis</string>
 			<string>Omegatonos</string>
-			<string>glyph1129</string>
-			<string>glyph1130</string>
-			<string>glyph1131</string>
-			<string>glyph1132</string>
-			<string>glyph1133</string>
-			<string>glyph1134</string>
-			<string>glyph1135</string>
-			<string>glyph1136</string>
-			<string>glyph1137</string>
-			<string>glyph1138</string>
-			<string>glyph1139</string>
-			<string>glyph1140</string>
-			<string>glyph1141</string>
-			<string>glyph1142</string>
-			<string>glyph1143</string>
-			<string>glyph1144</string>
-			<string>glyph1145</string>
-			<string>glyph1146</string>
-			<string>glyph1147</string>
-			<string>glyph1148</string>
-			<string>glyph1149</string>
-			<string>glyph1150</string>
-			<string>glyph1151</string>
 			<string>alphatonos</string>
 			<string>epsilontonos</string>
 			<string>etatonos</string>
@@ -1170,24 +1003,6 @@
 			<string>tonos</string>
 			<string>tonos.cap</string>
 			<string>dieresistonos</string>
-			<string>glyph1166</string>
-			<string>glyph1167</string>
-			<string>glyph1168</string>
-			<string>glyph1169</string>
-			<string>glyph1170</string>
-			<string>glyph1171</string>
-			<string>glyph1172</string>
-			<string>glyph1173</string>
-			<string>glyph1174</string>
-			<string>glyph1175</string>
-			<string>glyph1176</string>
-			<string>glyph1177</string>
-			<string>glyph1178</string>
-			<string>glyph1179</string>
-			<string>glyph1180</string>
-			<string>glyph1181</string>
-			<string>glyph1182</string>
-			<string>glyph1183</string>
 			<string>uni1F00</string>
 			<string>uni1F01</string>
 			<string>uni1F02</string>
@@ -1210,16 +1025,12 @@
 			<string>uni1F13</string>
 			<string>uni1F14</string>
 			<string>uni1F15</string>
-			<string>glyph1206</string>
-			<string>glyph1207</string>
 			<string>uni1F18</string>
 			<string>uni1F19</string>
 			<string>uni1F1A</string>
 			<string>uni1F1B</string>
 			<string>uni1F1C</string>
 			<string>uni1F1D</string>
-			<string>glyph1214</string>
-			<string>glyph1215</string>
 			<string>uni1F20</string>
 			<string>uni1F21</string>
 			<string>uni1F22</string>
@@ -1258,16 +1069,12 @@
 			<string>uni1F43</string>
 			<string>uni1F44</string>
 			<string>uni1F45</string>
-			<string>glyph1254</string>
-			<string>glyph1255</string>
 			<string>uni1F48</string>
 			<string>uni1F49</string>
 			<string>uni1F4A</string>
 			<string>uni1F4B</string>
 			<string>uni1F4C</string>
 			<string>uni1F4D</string>
-			<string>glyph1262</string>
-			<string>glyph1263</string>
 			<string>uni1F50</string>
 			<string>uni1F51</string>
 			<string>uni1F52</string>
@@ -1276,13 +1083,9 @@
 			<string>uni1F55</string>
 			<string>uni1F56</string>
 			<string>uni1F57</string>
-			<string>glyph1272</string>
 			<string>uni1F59</string>
-			<string>glyph1274</string>
 			<string>uni1F5B</string>
-			<string>glyph1276</string>
 			<string>uni1F5D</string>
-			<string>glyph1278</string>
 			<string>uni1F5F</string>
 			<string>uni1F60</string>
 			<string>uni1F61</string>
@@ -1314,8 +1117,6 @@
 			<string>uni1F7B</string>
 			<string>uni1F7C</string>
 			<string>uni1F7D</string>
-			<string>glyph1310</string>
-			<string>glyph1311</string>
 			<string>uni1F80</string>
 			<string>uni1F81</string>
 			<string>uni1F82</string>
@@ -1369,7 +1170,6 @@
 			<string>uni1FB2</string>
 			<string>uni1FB3</string>
 			<string>uni1FB4</string>
-			<string>glyph1365</string>
 			<string>uni1FB6</string>
 			<string>uni1FB7</string>
 			<string>uni1FB8</string>
@@ -1385,7 +1185,6 @@
 			<string>uni1FC2</string>
 			<string>uni1FC3</string>
 			<string>uni1FC4</string>
-			<string>glyph1381</string>
 			<string>uni1FC6</string>
 			<string>uni1FC7</string>
 			<string>uni1FC8</string>
@@ -1400,15 +1199,12 @@
 			<string>uni1FD1</string>
 			<string>uni1FD2</string>
 			<string>uni1FD3</string>
-			<string>glyph1396</string>
-			<string>glyph1397</string>
 			<string>uni1FD6</string>
 			<string>uni1FD7</string>
 			<string>uni1FD8</string>
 			<string>uni1FD9</string>
 			<string>uni1FDA</string>
 			<string>uni1FDB</string>
-			<string>glyph1404</string>
 			<string>uni1FDD</string>
 			<string>uni1FDE</string>
 			<string>uni1FDF</string>
@@ -1428,12 +1224,9 @@
 			<string>uni1FED</string>
 			<string>uni1FEE</string>
 			<string>uni1FEF</string>
-			<string>glyph1424</string>
-			<string>glyph1425</string>
 			<string>uni1FF2</string>
 			<string>uni1FF3</string>
 			<string>uni1FF4</string>
-			<string>glyph1429</string>
 			<string>uni1FF6</string>
 			<string>uni1FF7</string>
 			<string>uni1FF8</string>
@@ -1443,7 +1236,6 @@
 			<string>uni1FFC</string>
 			<string>uni1FFD</string>
 			<string>uni1FFE</string>
-			<string>glyph1439</string>
 			<string>uni1F88.alt</string>
 			<string>uni1F89.alt</string>
 			<string>uni1F8A.alt</string>
@@ -1471,113 +1263,11 @@
 			<string>uni1FBC.alt</string>
 			<string>uni1FCC.alt</string>
 			<string>uni1FFC.alt</string>
-			<string>glyph1467</string>
-			<string>glyph1468</string>
-			<string>glyph1469</string>
-			<string>glyph1470</string>
-			<string>glyph1471</string>
-			<string>SF540000</string>
-			<string>SF530000</string>
-			<string>SF190000</string>
-			<string>SF360000</string>
-			<string>SF450000</string>
-			<string>SF280000</string>
-			<string>SF500000</string>
-			<string>SF470000</string>
-			<string>SF220000</string>
-			<string>SF510000</string>
-			<string>SF240000</string>
-			<string>SF440000</string>
-			<string>SF230000</string>
-			<string>SF420000</string>
-			<string>SF400000</string>
-			<string>SF260000</string>
-			<string>SF380000</string>
-			<string>SF410000</string>
-			<string>SF250000</string>
-			<string>SF390000</string>
-			<string>SF430000</string>
-			<string>SF200000</string>
-			<string>SF370000</string>
-			<string>SF460000</string>
-			<string>SF270000</string>
-			<string>SF490000</string>
-			<string>SF480000</string>
-			<string>SF210000</string>
-			<string>SF520000</string>
-			<string>block</string>
-			<string>ltshade</string>
-			<string>shade</string>
-			<string>dkshade</string>
-			<string>uni263A</string>
-			<string>uni2007</string>
-			<string>uni263B</string>
-			<string>uni2665</string>
-			<string>uni2666</string>
-			<string>uni2663</string>
-			<string>uni2660</string>
-			<string>uni25D8</string>
-			<string>uni25CB</string>
-			<string>uni25D9</string>
-			<string>uni2642</string>
-			<string>uni2640</string>
-			<string>uni266A</string>
-			<string>uni266B</string>
-			<string>uni263C</string>
-			<string>uni25BA</string>
-			<string>uni25C4</string>
-			<string>uni2195</string>
-			<string>uni203C</string>
-			<string>uni25AC</string>
-			<string>uni21A8</string>
-			<string>uni2191</string>
-			<string>uni2193</string>
-			<string>uni2192</string>
-			<string>uni2190</string>
-			<string>uni221F</string>
-			<string>uni2194</string>
-			<string>uni25B2</string>
-			<string>uni25BC</string>
-			<string>uni2302</string>
-			<string>uni20A7</string>
-			<string>uni2310</string>
-			<string>uni2584</string>
-			<string>uni258C</string>
-			<string>uni2590</string>
-			<string>uni2580</string>
-			<string>uni2229</string>
-			<string>uni2261</string>
-			<string>uni2320</string>
-			<string>uni2321</string>
-			<string>uni207F</string>
-			<string>uni25A0</string>
-			<string>SF040000</string>
-			<string>SF020000</string>
-			<string>SF010000</string>
-			<string>SF110000</string>
-			<string>SF090000</string>
-			<string>SF100000</string>
-			<string>SF070000</string>
-			<string>SF060000</string>
-			<string>SF080000</string>
-			<string>SF050000</string>
-			<string>SF030000</string>
-			<string>glyph1814</string>
-			<string>glyph1815</string>
-			<string>glyph1816</string>
-			<string>glyph1817</string>
-			<string>glyph1818</string>
-			<string>glyph1819</string>
-			<string>glyph1820</string>
-			<string>glyph1821</string>
-			<string>glyph1822</string>
-			<string>glyph1823</string>
 			<string>ubuntu</string>
 			<string>uniE0FF</string>
 			<string>uniF0FF</string>
 			<string>uniEFFD</string>
 			<string>uniF000</string>
-			<string>uniFFFD</string>
 		</array>
 	</dict>
 </plist>
