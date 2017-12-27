@@ -1,24 +1,25 @@
-NORMAL_NAME=Ubuntu
-MONO_NAME=UbuntuMono
+CORE_FONTS=Ubuntu-Light Ubuntu-LightItalic \
+					 Ubuntu-Regular Ubuntu-Italic \
+					 Ubuntu-Medium Ubuntu-MediumItalic \
+					 Ubuntu-Bold Ubuntu-BoldItalic
+MONO_FONTS=UbuntuMono-Regular UbuntuMono-Italic \
+					 UbuntuMono-Bold UbuntuMono-BoldItalic
+CONDENSED_FONTS=UbuntuCondensed-Regular
+ALL_FONTS=$(CORE_FONTS) $(MONO_FONTS) $(CONDENSED_FONTS)
+
 SRC_DIR=source
-CORE_FONTS=B BI R RI
-ALL_FONTS=$(CORE_FONTS) C L LI M MI
-
-MASTER_DIR=master_ttf
 BUILD_DIR=build
+MASTER_DIR=master_ttf
 
-TTF=$(ALL_FONTS:%=$(BUILD_DIR)/$(NORMAL_NAME)-%.ttf)
-MONO_TTF=$(CORE_FONTS:%=$(BUILD_DIR)/$(MONO_NAME)-%.ttf)
-
-VTT_TTF=$(ALL_FONTS:%=$(SRC_DIR)/$(NORMAL_NAME)-%.ttf)
-VTT_MONO_TTF=$(CORE_FONTS:%=$(SRC_DIR)/$(MONO_NAME)-%.ttf)
+TTF=$(ALL_FONTS:%=$(BUILD_DIR)/%.ttf)
+VTT_TTF=$(ALL_FONTS:%=$(SRC_DIR)/%.ttf)
 
 
 all: ttf
 
-ttf: $(TTF) $(MONO_TTF)
+ttf: $(TTF)
 
-vtt: $(VTT_TTF) $(VTT_MONO_TTF)
+vtt: $(VTT_TTF)
 
 $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/features.fea \
@@ -37,7 +38,7 @@ $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
 
 clean:
 	@rm -rf $(BUILD_DIR)
-	@rm -f $(VTT_TTF) $(VTT_MONO_TTF)
+	@rm -f $(VTT_TTF)
 
 update-requirements:
 	@bash tools/update-requirements.sh
