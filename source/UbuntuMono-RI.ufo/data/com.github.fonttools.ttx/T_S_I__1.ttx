@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.21">
 
   <TSI1>
 
@@ -240,7 +240,6 @@ OFFSET[R], 36, 0, 0
     </glyphProgram>
 
     <glyphProgram name="Alphatonos">
-USEMYMETRICS[]
 OFFSET[R], 36, 7, 0
 OFFSET[R], 989, -156, 0
 
@@ -908,13 +907,11 @@ CALL[], 1, 1,14, 79
     </glyphProgram>
 
     <glyphProgram name="Emdash">
-USEMYMETRICS[]
 OFFSET[R], 116, 9, 38
 
     </glyphProgram>
 
     <glyphProgram name="Endash">
-USEMYMETRICS[]
 OFFSET[R], 115, 9, 38
 
     </glyphProgram>
@@ -1027,7 +1024,6 @@ OFFSET[R], 40, 0, 0
     </glyphProgram>
 
     <glyphProgram name="Epsilontonos">
-USEMYMETRICS[]
 OFFSET[R], 40, -26, 0
 OFFSET[R], 989, -266, 0
 
@@ -1179,7 +1175,6 @@ CALL[], 31, 8, 10, 0, 77
     </glyphProgram>
 
     <glyphProgram name="Exclamdown">
-USEMYMETRICS[]
 OFFSET[R], 124, 36, 163
 
     </glyphProgram>
@@ -2407,7 +2402,7 @@ CALL[], 2, 16,38, 79
 
     <glyphProgram name="Omega">
 USEMYMETRICS[]
-OFFSET[r], 415, 0, 0
+OFFSET[R], 415, 0, 0
 
     </glyphProgram>
 
@@ -2425,7 +2420,6 @@ OFFSET[R], 50, 0, 0
     </glyphProgram>
 
     <glyphProgram name="Omicrontonos">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 989, -243, 0
 
@@ -2724,7 +2718,6 @@ CALL[], 46, 32, 18, 0, 77
     </glyphProgram>
 
     <glyphProgram name="Questiondown">
-USEMYMETRICS[]
 OFFSET[R], 154, 27, 162
 
     </glyphProgram>
@@ -4337,7 +4330,6 @@ SHC[2], 2
     </glyphProgram>
 
     <glyphProgram name="Upsilontonos">
-USEMYMETRICS[]
 OFFSET[R], 60, -10, 0
 OFFSET[R], 989, -309, 0
 
@@ -9101,7 +9093,6 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="approxequal">
-USEMYMETRICS[]
 OFFSET[R], 97, 18, 96
 OFFSET[R], 97, -26, -95
 
@@ -11262,19 +11253,16 @@ CALL[], 66, -40, 17, 0, 77
     </glyphProgram>
 
     <glyphProgram name="eight.sinf">
-USEMYMETRICS[]
 OFFSET[R], 373, -96, -434
 
     </glyphProgram>
 
     <glyphProgram name="eight.sups">
-USEMYMETRICS[]
 OFFSET[R], 373, 28, 107
 
     </glyphProgram>
 
     <glyphProgram name="eightinferior">
-USEMYMETRICS[]
 OFFSET[R], 373, -62, -279
 
 SVTCA[Y]
@@ -12064,13 +12052,11 @@ CALL[], 29, 24, 16, 0, 77
     </glyphProgram>
 
     <glyphProgram name="five.sinf">
-USEMYMETRICS[]
 OFFSET[R], 370, -92, -434
 
     </glyphProgram>
 
     <glyphProgram name="five.sups">
-USEMYMETRICS[]
 OFFSET[R], 370, 36, 107
 
     </glyphProgram>
@@ -12150,7 +12136,6 @@ CALL[], 57, 32, 17, 29, 0, 76
     </glyphProgram>
 
     <glyphProgram name="fiveinferior">
-USEMYMETRICS[]
 OFFSET[R], 370, -70, -279
 
 SVTCA[Y]
@@ -12607,13 +12592,11 @@ CALL[], 15, 16, 14, 0, 77
     </glyphProgram>
 
     <glyphProgram name="four.sinf">
-USEMYMETRICS[]
 OFFSET[R], 369, -81, -434
 
     </glyphProgram>
 
     <glyphProgram name="four.sups">
-USEMYMETRICS[]
 OFFSET[R], 369, 36, 107
 
     </glyphProgram>
@@ -12706,7 +12689,6 @@ CALL[], 25, -16, 14, 0, 77
     </glyphProgram>
 
     <glyphProgram name="fourinferior">
-USEMYMETRICS[]
 OFFSET[R], 369, -53, -279
 
 SVTCA[Y]
@@ -13216,7 +13198,6 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="greaterequal">
-USEMYMETRICS[]
 OFFSET[R], 416, -51, -227
 OFFSET[R], 33, 34, 61
 
@@ -14419,7 +14400,6 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="lessequal">
-USEMYMETRICS[]
 OFFSET[R], 416, -52, -227
 OFFSET[R], 31, 36, 61
 
@@ -15007,19 +14987,16 @@ CALL[], 44, -16, 17, 18, 0, 76
     </glyphProgram>
 
     <glyphProgram name="nine.sinf">
-USEMYMETRICS[]
 OFFSET[R], 374, -71, -434
 
     </glyphProgram>
 
     <glyphProgram name="nine.sups">
-USEMYMETRICS[]
 OFFSET[R], 374, 44, 107
 
     </glyphProgram>
 
     <glyphProgram name="nineinferior">
-USEMYMETRICS[]
 OFFSET[R], 374, -35, -279
 
 SVTCA[Y]
@@ -15578,13 +15555,11 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="one.sinf">
-USEMYMETRICS[]
 OFFSET[R], 148, -71, -434
 
     </glyphProgram>
 
     <glyphProgram name="one.sups">
-USEMYMETRICS[]
 OFFSET[R], 148, 36, 107
 
     </glyphProgram>
@@ -15794,7 +15769,6 @@ CALL[], 40, -40, 18, 0, 77
     </glyphProgram>
 
     <glyphProgram name="oneinferior">
-USEMYMETRICS[]
 OFFSET[R], 148, -57, -279
 
 SVTCA[Y]
@@ -16622,7 +16596,6 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="periodcentered">
-USEMYMETRICS[]
 OFFSET[R], 17, 45, 196
 
     </glyphProgram>
@@ -17838,13 +17811,11 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="seven.sinf">
-USEMYMETRICS[]
 OFFSET[R], 372, -80, -434
 
     </glyphProgram>
 
     <glyphProgram name="seven.sups">
-USEMYMETRICS[]
 OFFSET[R], 372, 17, 107
 
     </glyphProgram>
@@ -17920,7 +17891,6 @@ CALL[], 44, 32, 17, 29, 0, 76
     </glyphProgram>
 
     <glyphProgram name="seveninferior">
-USEMYMETRICS[]
 OFFSET[R], 372, -62, -279
 
 SVTCA[Y]
@@ -18138,19 +18108,16 @@ CALL[], 45, 24, 10, 0, 77
     </glyphProgram>
 
     <glyphProgram name="six.sinf">
-USEMYMETRICS[]
 OFFSET[R], 371, -95, -434
 
     </glyphProgram>
 
     <glyphProgram name="six.sups">
-USEMYMETRICS[]
 OFFSET[R], 371, 36, 107
 
     </glyphProgram>
 
     <glyphProgram name="sixinferior">
-USEMYMETRICS[]
 OFFSET[R], 371, -70, -279
 
 SVTCA[Y]
@@ -18755,13 +18722,11 @@ CALL[], 50, 40, 15, 0, 77
     </glyphProgram>
 
     <glyphProgram name="three.sinf">
-USEMYMETRICS[]
 OFFSET[R], 142, -93, -434
 
     </glyphProgram>
 
     <glyphProgram name="three.sups">
-USEMYMETRICS[]
 OFFSET[R], 142, 29, 107
 
     </glyphProgram>
@@ -18912,7 +18877,6 @@ CALL[], 44, -16, 14, 16, 0, 76
     </glyphProgram>
 
     <glyphProgram name="threeinferior">
-USEMYMETRICS[]
 OFFSET[R], 142, -57, -279
 
 SVTCA[Y]
@@ -19296,13 +19260,11 @@ CALL[], 40, -24, 12, 0, 77
     </glyphProgram>
 
     <glyphProgram name="two.sinf">
-USEMYMETRICS[]
 OFFSET[R], 141, -86, -434
 
     </glyphProgram>
 
     <glyphProgram name="two.sups">
-USEMYMETRICS[]
 OFFSET[R], 141, 17, 107
 
     </glyphProgram>
@@ -19370,7 +19332,6 @@ CALL[], 34, -24, 14, 16, 0, 76
     </glyphProgram>
 
     <glyphProgram name="twoinferior">
-USEMYMETRICS[]
 OFFSET[R], 141, -45, -279
 
 SVTCA[Y]
@@ -22849,7 +22810,6 @@ OFFSET[R], 95, 0, 0
     </glyphProgram>
 
     <glyphProgram name="uni01C1">
-USEMYMETRICS[]
 OFFSET[R], 95, 88, 0
 OFFSET[R], 95, -91, 0
 
@@ -32895,56 +32855,48 @@ SHC[2], 3
     </glyphProgram>
 
     <glyphProgram name="uni1F08">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1167, -164, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F09">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1223, -222, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F0A">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1180, -280, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F0B">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1193, -289, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F0C">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1181, -268, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F0D">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1194, -261, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F0E">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1182, -227, -95
 
     </glyphProgram>
 
     <glyphProgram name="uni1F0F">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1195, -237, -95
 
@@ -33009,42 +32961,36 @@ SHC[2], 2
     </glyphProgram>
 
     <glyphProgram name="uni1F18">
-USEMYMETRICS[]
 OFFSET[R], 40, -17, 0
 OFFSET[R], 1167, -262, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F19">
-USEMYMETRICS[]
 OFFSET[R], 40, -17, 0
 OFFSET[R], 1223, -294, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F1A">
-USEMYMETRICS[]
 OFFSET[R], 40, -17, 0
 OFFSET[R], 1180, -354, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F1B">
-USEMYMETRICS[]
 OFFSET[R], 40, -17, 0
 OFFSET[R], 1193, -363, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F1C">
-USEMYMETRICS[]
 OFFSET[R], 40, -17, 0
 OFFSET[R], 1181, -367, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F1D">
-USEMYMETRICS[]
 OFFSET[R], 40, -17, 0
 OFFSET[R], 1194, -361, -63
 
@@ -33377,42 +33323,36 @@ SHC[2], 3
     </glyphProgram>
 
     <glyphProgram name="uni1F48">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1167, -257, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F49">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1223, -318, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F4A">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1180, -373, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F4B">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1193, -382, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F4C">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1181, -352, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1F4D">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1194, -345, -63
 
@@ -33872,14 +33812,13 @@ SHC[2], 3
     </glyphProgram>
 
     <glyphProgram name="uni1F88">
-USEMYMETRICS[]
 OFFSET[R], 1167, -254, -63
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F88.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1167, -164, -63
 OFFSET[R], 1166, -8, 0
@@ -33887,14 +33826,13 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F89">
-USEMYMETRICS[]
 OFFSET[R], 1223, -312, -63
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F89.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1223, -222, -63
 OFFSET[R], 1166, -8, 0
@@ -33902,14 +33840,13 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F8A">
-USEMYMETRICS[]
 OFFSET[R], 1180, -370, -63
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F8A.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1180, -280, -63
 OFFSET[R], 1166, -8, 0
@@ -33917,14 +33854,13 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F8B">
-USEMYMETRICS[]
 OFFSET[R], 1193, -379, -63
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F8B.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1193, -289, -63
 OFFSET[R], 1166, -8, 0
@@ -33932,14 +33868,13 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F8C">
-USEMYMETRICS[]
 OFFSET[R], 1181, -357, -63
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F8C.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1181, -268, -63
 OFFSET[R], 1166, -8, 0
@@ -33947,14 +33882,13 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F8D">
-USEMYMETRICS[]
 OFFSET[R], 1194, -350, -63
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F8D.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1194, -261, -63
 OFFSET[R], 1166, -8, 0
@@ -33962,14 +33896,13 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F8E">
-USEMYMETRICS[]
 OFFSET[R], 1182, -316, -95
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F8E.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1182, -227, -95
 OFFSET[R], 1166, -8, 0
@@ -33977,14 +33910,13 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F8F">
-USEMYMETRICS[]
 OFFSET[R], 1195, -318, -95
+USEMYMETRICS[]
 OFFSET[R], 1164, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni1F8F.alt">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1195, -237, -95
 OFFSET[R], 1166, -8, 0
@@ -34078,8 +34010,8 @@ SHC[2], 2
     </glyphProgram>
 
     <glyphProgram name="uni1F98">
-USEMYMETRICS[]
 OFFSET[R], 1167, -280, -63
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34093,8 +34025,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F99">
-USEMYMETRICS[]
 OFFSET[R], 1223, -312, -63
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34108,8 +34040,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F9A">
-USEMYMETRICS[]
 OFFSET[R], 1180, -373, -63
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34123,8 +34055,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F9B">
-USEMYMETRICS[]
 OFFSET[R], 1193, -381, -63
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34138,8 +34070,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F9C">
-USEMYMETRICS[]
 OFFSET[R], 1181, -385, -63
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34153,8 +34085,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F9D">
-USEMYMETRICS[]
 OFFSET[R], 1194, -379, -63
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34168,8 +34100,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F9E">
-USEMYMETRICS[]
 OFFSET[R], 1182, -360, -95
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34183,8 +34115,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1F9F">
-USEMYMETRICS[]
 OFFSET[R], 1195, -360, -95
+USEMYMETRICS[]
 OFFSET[R], 1179, 0, 0
 
     </glyphProgram>
@@ -34284,8 +34216,8 @@ SHC[2], 2
     </glyphProgram>
 
     <glyphProgram name="uni1FA8">
-USEMYMETRICS[]
 OFFSET[R], 1167, -302, -63
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34299,8 +34231,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1FA9">
-USEMYMETRICS[]
 OFFSET[R], 1223, -362, -63
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34314,8 +34246,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1FAA">
-USEMYMETRICS[]
 OFFSET[R], 1180, -419, -63
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34329,8 +34261,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1FAB">
-USEMYMETRICS[]
 OFFSET[R], 1193, -427, -63
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34344,8 +34276,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1FAC">
-USEMYMETRICS[]
 OFFSET[R], 1181, -396, -63
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34359,8 +34291,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1FAD">
-USEMYMETRICS[]
 OFFSET[R], 1194, -389, -63
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34374,8 +34306,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1FAE">
-USEMYMETRICS[]
 OFFSET[R], 1182, -354, -95
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34389,8 +34321,8 @@ OFFSET[R], 1166, -8, 0
     </glyphProgram>
 
     <glyphProgram name="uni1FAF">
-USEMYMETRICS[]
 OFFSET[R], 1195, -354, -95
+USEMYMETRICS[]
 OFFSET[R], 1221, 0, 0
 
     </glyphProgram>
@@ -34486,14 +34418,12 @@ CALL[], 2,9,25,79
     </glyphProgram>
 
     <glyphProgram name="uni1FBA">
-USEMYMETRICS[]
 OFFSET[R], 36, 4, 0
 OFFSET[R], 1211, -242, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1FBB">
-USEMYMETRICS[]
 OFFSET[R], 36, 7, 0
 OFFSET[R], 1222, -206, -63
 
@@ -35313,14 +35243,12 @@ CALL[], 1,14,71,79
     </glyphProgram>
 
     <glyphProgram name="uni1FF8">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1211, -333, -63
 
     </glyphProgram>
 
     <glyphProgram name="uni1FF9">
-USEMYMETRICS[]
 OFFSET[R], 50, -8, 0
 OFFSET[R], 1222, -295, -63
 
@@ -35703,7 +35631,6 @@ OFFSET[R], 367, 0, 0
     </glyphProgram>
 
     <glyphProgram name="uni2219">
-USEMYMETRICS[]
 OFFSET[R], 17, 51, 214
 
     </glyphProgram>
@@ -35733,6 +35660,10 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="uniEFFD">
+OFFSET[R], 433, -150, 0
+OFFSET[R], 432, 150, 0
+OFFSET[R], 442, -150, 0
+OFFSET[R], 442, 150, 0
 /* VTT 4.2 compiler */
 SVTCA[Y]
 MDAP[R], 25
@@ -36561,19 +36492,16 @@ CALL[], 34, 8, 18, 0, 77
     </glyphProgram>
 
     <glyphProgram name="zero.sinf">
-USEMYMETRICS[]
 OFFSET[R], 368, -95, -434
 
     </glyphProgram>
 
     <glyphProgram name="zero.sups">
-USEMYMETRICS[]
 OFFSET[R], 368, 29, 107
 
     </glyphProgram>
 
     <glyphProgram name="zeroinferior">
-USEMYMETRICS[]
 OFFSET[R], 368, -53, -279
 
 SVTCA[Y]

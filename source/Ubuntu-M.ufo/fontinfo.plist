@@ -101,9 +101,9 @@ The scope of the Ubuntu Font Family includes all the languages used by the vario
 		<array>
 		</array>
 		<key>openTypeNameUniqueID</key>
-		<string>Ubuntu Medium Version 0.83</string>
+		<string>Ubuntu Medium Regular Version 1.000</string>
 		<key>openTypeNameVersion</key>
-		<string>Version 0.83</string>
+		<string>Version 1.000</string>
 		<key>openTypeOS2CodePageRanges</key>
 		<array>
 			<integer>0</integer>
@@ -261,9 +261,9 @@ The scope of the Ubuntu Font Family includes all the languages used by the vario
 		<key>unitsPerEm</key>
 		<integer>1000</integer>
 		<key>versionMajor</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>versionMinor</key>
-		<integer>830</integer>
+		<integer>0</integer>
 		<key>xHeight</key>
 		<integer>523</integer>
 		<key>year</key>
