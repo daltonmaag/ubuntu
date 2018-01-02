@@ -111,6 +111,10 @@
 		<integer>-189</integer>
 		<key>openTypeHheaLineGap</key>
 		<integer>28</integer>
+		<key>openTypeHheaCaretSlopeRise</key>
+		<integer>1000</integer>
+		<key>openTypeHheaCaretSlopeRun</key>
+		<integer>240</integer>
 		<key>openTypeNameCompatibleFullName</key>
 		<string>Ubuntu Light Italic</string>
 		<key>openTypeNameDescription</key>
