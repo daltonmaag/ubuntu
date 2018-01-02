@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.21">
 
   <TSI1>
 
@@ -187,8 +187,8 @@ CALL[], 26, 24, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],161,0,0
-OFFSET[R],143,414,156
+OFFSET[R], 161, 0, 0
+OFFSET[R], 143, 414, 156
 CALL[],2,10,28,79
 CALL[],265,29,27,5,11,80
 SHC[2],2
@@ -199,8 +199,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],143,159,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 143, 159, 156
 CALL[],2,5,24,79
 CALL[],204,25,23,2,11,80
 SHC[2],2
@@ -211,8 +211,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],353,166,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 353, 166, 156
 CALL[],2,5,23,79
 CALL[],212,27,42,2,11,80
 SHC[2],2
@@ -223,8 +223,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],105,160,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 105, 160, 156
 CALL[],2,5,28,79
 CALL[],183,25,27,2,11,80
 SHC[2],2
@@ -235,8 +235,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],131,167,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 131, 167, 156
 CALL[],2,5,23,79
 CALL[],3,5,35,79
 CALL[],196,25,43,2,11,80
@@ -249,8 +249,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],67,160,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 67, 160, 156
 CALL[],2,5,25,79
 CALL[],166,26,24,2,11,80
 SHC[2],2
@@ -261,7 +261,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
+OFFSET[R], 36, 0, 0
 
     </glyphProgram>
 
@@ -269,8 +269,8 @@ OFFSET[R],36,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],1002,-79,0
+OFFSET[R], 36, 0, 0
+OFFSET[R], 1002, -79, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-67,25,23,2,11,80
 SHC[2],2
@@ -281,8 +281,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],138,167,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 138, 167, 156
 CALL[],2,5,25,79
 CALL[],195,26,24,2,11,80
 SHC[2],2
@@ -536,7 +536,6 @@ CALL[], 26, 24, 18, 0, 77
     </glyphProgram>
 
     <glyphProgram name="At">
-USEMYMETRICS[]
 OFFSET[R], 35, 16, 68
 
     </glyphProgram>
@@ -545,8 +544,8 @@ OFFSET[R], 35, 16, 68
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],117,165,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 117, 165, 156
 CALL[],2,5,42,79
 CALL[],195,43,30,2,11,80
 SHC[2],2
@@ -617,7 +616,6 @@ CALL[], 46, 56, 18, 0, 77
     </glyphProgram>
 
     <glyphProgram name="Backslash">
-USEMYMETRICS[]
 OFFSET[R], 63, 11, 47
 
     </glyphProgram>
@@ -626,30 +624,26 @@ OFFSET[R], 63, 11, 47
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],37,0,0
+OFFSET[R], 37, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="Braceleft">
-USEMYMETRICS[]
 OFFSET[R], 94, 11, 47
 
     </glyphProgram>
 
     <glyphProgram name="Braceright">
-USEMYMETRICS[]
 OFFSET[R], 96, 11, 47
 
     </glyphProgram>
 
     <glyphProgram name="Bracketleft">
-USEMYMETRICS[]
 OFFSET[R], 62, 11, 47
 
     </glyphProgram>
 
     <glyphProgram name="Bracketright">
-USEMYMETRICS[]
 OFFSET[R], 64, 11, 47
 
     </glyphProgram>
@@ -658,7 +652,7 @@ OFFSET[R], 64, 11, 47
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],114,0,0
+OFFSET[R], 114, 0, 0
 
     </glyphProgram>
 
@@ -713,8 +707,8 @@ CALL[], 31, -24, 11, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],38,0,0
-OFFSET[R],143,195,156
+OFFSET[R], 38, 0, 0
+OFFSET[R], 143, 195, 156
 CALL[],1,9,36,79
 CALL[],141,37,35,4,13,80
 SHC[2],1
@@ -725,8 +719,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],38,0,0
-OFFSET[R],351,201,156
+OFFSET[R], 38, 0, 0
+OFFSET[R], 351, 201, 156
 CALL[],1,9,38,79
 CALL[],138,39,37,4,13,80
 SHC[2],1
@@ -821,8 +815,8 @@ CALL[], 43, -24, 15, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],38,0,0
-OFFSET[R],105,196,156
+OFFSET[R], 38, 0, 0
+OFFSET[R], 105, 196, 156
 CALL[],1,9,40,79
 CALL[],120,37,39,4,13,80
 SHC[2],1
@@ -833,8 +827,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],38,0,0
-OFFSET[R],354,226,156
+OFFSET[R], 38, 0, 0
+OFFSET[R], 354, 226, 156
 CALL[],1,9,35,79
 CALL[],133,37,43,4,13,80
 SHC[2],1
@@ -845,7 +839,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],59,0,0
+OFFSET[R], 59, 0, 0
 
     </glyphProgram>
 
@@ -896,8 +890,8 @@ CALL[], 20, -16, 12, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],39,0,0
-OFFSET[R],351,186,156
+OFFSET[R], 39, 0, 0
+OFFSET[R], 351, 186, 156
 CALL[],2,14,32,79
 CALL[],136,33,31,25,16,80
 SHC[2],2
@@ -908,7 +902,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],171,0,0
+OFFSET[R], 171, 0, 0
 
     </glyphProgram>
 
@@ -916,7 +910,7 @@ OFFSET[R],171,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],935,0,0
+OFFSET[R], 935, 0, 0
 
     </glyphProgram>
 
@@ -966,8 +960,8 @@ CALL[], 5, -16, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],143,127,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 143, 127, 156
 CALL[],1,1,13,79
 CALL[],125,14,12,0,2,80
 SHC[2],1
@@ -978,8 +972,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],353,134,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 353, 134, 156
 CALL[],1,1,12,79
 CALL[],133,16,31,0,2,80
 SHC[2],1
@@ -990,8 +984,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],351,134,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 351, 134, 156
 CALL[],1,1,15,79
 CALL[],122,16,14,0,2,80
 SHC[2],1
@@ -1002,8 +996,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],105,129,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 105, 129, 156
 CALL[],1,1,17,79
 CALL[],104,14,16,0,2,80
 SHC[2],1
@@ -1014,8 +1008,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],131,135,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 131, 135, 156
 CALL[],1,1,12,79
 CALL[],2,1,24,79
 CALL[],116,14,32,0,2,80
@@ -1028,8 +1022,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],354,158,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 354, 158, 156
 CALL[],1,1,12,79
 CALL[],116,14,20,0,2,80
 SHC[2],1
@@ -1040,8 +1034,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],67,128,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 67, 128, 156
 CALL[],1,1,14,79
 CALL[],87,15,13,0,2,80
 SHC[2],1
@@ -1052,8 +1046,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],138,136,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 138, 136, 156
 CALL[],1,1,14,79
 CALL[],117,15,13,0,2,80
 SHC[2],1
@@ -1061,13 +1055,11 @@ SHC[2],1
     </glyphProgram>
 
     <glyphProgram name="Emdash">
-USEMYMETRICS[]
 OFFSET[R], 116, 11, 47
 
     </glyphProgram>
 
     <glyphProgram name="Endash">
-USEMYMETRICS[]
 OFFSET[R], 115, 11, 47
 
     </glyphProgram>
@@ -1210,7 +1202,7 @@ CALL[], 24, -32, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
+OFFSET[R], 40, 0, 0
 
     </glyphProgram>
 
@@ -1224,7 +1216,7 @@ OFFSET[R], 1002, -154, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],43,0,0
+OFFSET[R], 43, 0, 0
 
     </glyphProgram>
 
@@ -1374,7 +1366,6 @@ CALL[], 43, -48, 12, 0, 77
     </glyphProgram>
 
     <glyphProgram name="Exclamdown">
-USEMYMETRICS[]
 OFFSET[R], 124, 43, 185
 
     </glyphProgram>
@@ -1469,7 +1460,7 @@ CALL[], 30, 8, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],725,0,0
+OFFSET[R], 725, 0, 0
 
     </glyphProgram>
 
@@ -1477,8 +1468,8 @@ OFFSET[R],725,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],42,0,0
-OFFSET[R],353,205,156
+OFFSET[R], 42, 0, 0
+OFFSET[R], 353, 205, 156
 CALL[],1,7,38,79
 CALL[],146,42,57,2,13,80
 SHC[2],1
@@ -1489,8 +1480,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],42,0,0
-OFFSET[R],351,205,156
+OFFSET[R], 42, 0, 0
+OFFSET[R], 351, 205, 156
 CALL[],1,7,41,79
 CALL[],135,42,40,2,13,80
 SHC[2],1
@@ -1501,8 +1492,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],42,0,0
-OFFSET[R],105,199,156
+OFFSET[R], 42, 0, 0
+OFFSET[R], 105, 199, 156
 CALL[],1,7,43,79
 CALL[],116,40,42,2,13,80
 SHC[2],1
@@ -1513,8 +1504,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],42,0,0
-OFFSET[R],467,260,0
+OFFSET[R], 42, 0, 0
+OFFSET[R], 467, 260, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-97,46,38,2,13,80
 SHC[2],1
@@ -1525,8 +1516,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],42,0,0
-OFFSET[R],354,229,156
+OFFSET[R], 42, 0, 0
+OFFSET[R], 354, 229, 156
 CALL[],1,7,38,79
 CALL[],129,40,46,2,13,80
 SHC[2],1
@@ -1546,13 +1537,11 @@ OFFSET[R], 120, 222, 62
     </glyphProgram>
 
     <glyphProgram name="Guilsinglleft">
-USEMYMETRICS[]
 OFFSET[R], 108, 14, 62
 
     </glyphProgram>
 
     <glyphProgram name="Guilsinglright">
-USEMYMETRICS[]
 OFFSET[R], 120, 14, 62
 
     </glyphProgram>
@@ -1694,8 +1683,8 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],43,0,0
-OFFSET[R],105,180,156
+OFFSET[R], 43, 0, 0
+OFFSET[R], 105, 180, 156
 CALL[],1,6,17,79
 CALL[],102,14,16,5,11,80
 SHC[2],1
@@ -1703,7 +1692,6 @@ SHC[2],1
     </glyphProgram>
 
     <glyphProgram name="Hyphen">
-USEMYMETRICS[]
 OFFSET[R], 16, 5, 47
 
     </glyphProgram>
@@ -1740,8 +1728,8 @@ OFFSET[R], 45, 267, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],143,-27,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 143, -27, 156
 CALL[],1,0,5,79
 CALL[],127,6,4,3,1,80
 SHC[2],1
@@ -1752,8 +1740,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],353,-20,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 353, -20, 156
 CALL[],1,0,4,79
 CALL[],135,8,23,3,1,80
 SHC[2],1
@@ -1764,8 +1752,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],105,-26,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 105, -26, 156
 CALL[],1,0,9,79
 CALL[],105,6,8,3,1,80
 SHC[2],1
@@ -1776,8 +1764,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],131,-19,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 131, -19, 156
 CALL[],1,0,4,79
 CALL[],2,0,16,79
 CALL[],118,6,24,3,1,80
@@ -1790,8 +1778,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],354,1,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 354, 1, 156
 CALL[],1,0,4,79
 CALL[],115,6,12,3,1,80
 SHC[2],1
@@ -1802,8 +1790,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],67,-26,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 67, -26, 156
 CALL[],1,0,6,79
 CALL[],89,7,5,3,1,80
 SHC[2],1
@@ -1814,8 +1802,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],138,-19,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 138, -19, 156
 CALL[],1,0,6,79
 CALL[],118,7,5,3,1,80
 SHC[2],1
@@ -1858,7 +1846,7 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
+OFFSET[R], 44, 0, 0
 
     </glyphProgram>
 
@@ -1866,8 +1854,8 @@ OFFSET[R],44,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],131,-19,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 131, -19, 156
 CALL[],1,0,4,79
 CALL[],2,0,16,79
 CALL[],118,6,24,3,1,80
@@ -1886,8 +1874,8 @@ OFFSET[R], 1002, -154, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],117,-21,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 117, -21, 156
 CALL[],1,0,23,79
 CALL[],118,24,11,3,1,80
 SHC[2],1
@@ -1934,8 +1922,8 @@ CALL[], 17, -16, 11, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],45,0,0
-OFFSET[R],105,193,156
+OFFSET[R], 45, 0, 0
+OFFSET[R], 105, 193, 156
 CALL[],1,20,27,79
 CALL[],241,24,26,10,21,80
 SHC[2],1
@@ -2039,7 +2027,7 @@ CALL[], 24, 40, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],46,0,0
+OFFSET[R], 46, 0, 0
 
     </glyphProgram>
 
@@ -2047,8 +2035,8 @@ OFFSET[R],46,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],46,0,0
-OFFSET[R],467,215,0
+OFFSET[R], 46, 0, 0
+OFFSET[R], 467, 215, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-131,35,27,18,0,80
 SHC[2],1
@@ -2086,8 +2074,8 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],47,0,0
-OFFSET[R],143,-5,156
+OFFSET[R], 47, 0, 0
+OFFSET[R], 143, -5, 156
 CALL[],1,3,7,79
 CALL[],69,8,6,2,0,80
 SHC[2],1
@@ -2150,8 +2138,8 @@ CALL[], 13, -16, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],47,0,0
-OFFSET[R],465,98,-81
+OFFSET[R], 47, 0, 0
+OFFSET[R], 465, 98, -81
 /* No vertical hints due to overlapping parts */
 CALL[],157,8,6,2,0,80
 SHC[2],1
@@ -2162,8 +2150,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],47,0,0
-OFFSET[R],467,156,0
+OFFSET[R], 47, 0, 0
+OFFSET[R], 467, 156, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-67,14,6,2,0,80
 SHC[2],1
@@ -2174,8 +2162,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],47,0,0
-OFFSET[R],354,144,-311
+OFFSET[R], 47, 0, 0
+OFFSET[R], 354, 144, -311
 /* No vertical hints due to overlapping parts */
 CALL[],178,8,14,2,0,80
 SHC[2],1
@@ -2350,7 +2338,7 @@ CALL[], 42, 16, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],48,0,0
+OFFSET[R], 48, 0, 0
 
     </glyphProgram>
 
@@ -2444,8 +2432,8 @@ CALL[], 17, -8, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],49,0,0
-OFFSET[R],143,189,156
+OFFSET[R], 49, 0, 0
+OFFSET[R], 143, 189, 156
 CALL[],1,8,19,79
 CALL[],126,20,18,7,16,80
 SHC[2],1
@@ -2456,8 +2444,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],49,0,0
-OFFSET[R],351,195,156
+OFFSET[R], 49, 0, 0
+OFFSET[R], 351, 195, 156
 CALL[],1,8,21,79
 CALL[],122,22,20,7,16,80
 SHC[2],1
@@ -2468,8 +2456,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],49,0,0
-OFFSET[R],467,220,0
+OFFSET[R], 49, 0, 0
+OFFSET[R], 467, 220, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-140,26,18,7,16,80
 SHC[2],1
@@ -2480,8 +2468,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],49,0,0
-OFFSET[R],117,195,156
+OFFSET[R], 49, 0, 0
+OFFSET[R], 117, 195, 156
 CALL[],1,8,37,79
 CALL[],117,38,25,7,16,80
 SHC[2],1
@@ -2492,7 +2480,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],49,0,0
+OFFSET[R], 49, 0, 0
 
     </glyphProgram>
 
@@ -2600,8 +2588,8 @@ CALL[], 29, -48, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],143,209,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 143, 209, 156
 CALL[],2,0,37,79
 CALL[],125,38,36,14,4,80
 SHC[2],2
@@ -2612,8 +2600,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],353,215,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 353, 215, 156
 CALL[],2,0,36,79
 CALL[],132,40,55,14,4,80
 SHC[2],2
@@ -2624,8 +2612,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],105,210,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 105, 210, 156
 CALL[],2,0,41,79
 CALL[],103,38,40,14,4,80
 SHC[2],2
@@ -2636,8 +2624,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],131,217,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 131, 217, 156
 CALL[],2,0,36,79
 CALL[],3,0,48,79
 CALL[],116,38,56,14,4,80
@@ -2650,8 +2638,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],67,210,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 67, 210, 156
 CALL[],2,0,38,79
 CALL[],87,39,37,14,4,80
 SHC[2],2
@@ -2713,8 +2701,8 @@ CALL[], 44, -40, 11, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],357,244,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 357, 244, 156
 CALL[],2,0,37,79
 CALL[],3,0,41,79
 CALL[],160,38,40,14,4,80
@@ -2727,8 +2715,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],138,217,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 138, 217, 156
 CALL[],2,0,38,79
 CALL[],116,39,37,14,4,80
 SHC[2],2
@@ -2814,7 +2802,7 @@ OFFSET[R], 1002, -154, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
+OFFSET[R], 50, 0, 0
 
     </glyphProgram>
 
@@ -2938,8 +2926,8 @@ CALL[], 45, -16, 11, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],179,0,0
-OFFSET[R],143,209,156
+OFFSET[R], 179, 0, 0
+OFFSET[R], 143, 209, 156
 CALL[],3,3,49,79
 CALL[],125,50,48,17,4,80
 SHC[2],3
@@ -2950,8 +2938,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],117,215,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 117, 215, 156
 CALL[],2,0,55,79
 CALL[],116,56,43,14,4,80
 SHC[2],2
@@ -3005,13 +2993,11 @@ CALL[], 26, 56, 16, 0, 77
     </glyphProgram>
 
     <glyphProgram name="Parenleft">
-USEMYMETRICS[]
 OFFSET[R], 11, 10, 45
 
     </glyphProgram>
 
     <glyphProgram name="Parenright">
-USEMYMETRICS[]
 OFFSET[R], 12, 11, 49
 
     </glyphProgram>
@@ -3020,7 +3006,7 @@ OFFSET[R], 12, 11, 49
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],742,0,0
+OFFSET[R], 742, 0, 0
 
     </glyphProgram>
 
@@ -3028,7 +3014,7 @@ OFFSET[R],742,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],737,0,0
+OFFSET[R], 737, 0, 0
 
     </glyphProgram>
 
@@ -3169,7 +3155,6 @@ CALL[], 45, 24, 11, 0, 77
     </glyphProgram>
 
     <glyphProgram name="Questiondown">
-USEMYMETRICS[]
 OFFSET[R], 154, 27, 185
 
     </glyphProgram>
@@ -3252,8 +3237,8 @@ CALL[], 38, 48, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],53,0,0
-OFFSET[R],143,123,156
+OFFSET[R], 53, 0, 0
+OFFSET[R], 143, 123, 156
 CALL[],2,0,40,79
 CALL[],117,41,39,23,2,80
 SHC[2],2
@@ -3264,8 +3249,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],53,0,0
-OFFSET[R],351,130,156
+OFFSET[R], 53, 0, 0
+OFFSET[R], 351, 130, 156
 CALL[],2,0,42,79
 CALL[],114,43,41,23,2,80
 SHC[2],2
@@ -3276,8 +3261,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],53,0,0
-OFFSET[R],467,207,0
+OFFSET[R], 53, 0, 0
+OFFSET[R], 467, 207, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-96,47,39,23,2,80
 SHC[2],2
@@ -3288,7 +3273,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],51,0,0
+OFFSET[R], 51, 0, 0
 
     </glyphProgram>
 
@@ -3360,8 +3345,8 @@ CALL[], 56, -16, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],54,0,0
-OFFSET[R],143,95,156
+OFFSET[R], 54, 0, 0
+OFFSET[R], 143, 95, 156
 CALL[],1,19,59,79
 CALL[],143,60,58,54,25,80
 SHC[2],1
@@ -3372,8 +3357,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],54,0,0
-OFFSET[R],351,102,156
+OFFSET[R], 54, 0, 0
+OFFSET[R], 351, 102, 156
 CALL[],1,19,61,79
 CALL[],141,62,60,54,25,80
 SHC[2],1
@@ -3467,8 +3452,8 @@ CALL[], 75, 16, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],54,0,0
-OFFSET[R],105,96,156
+OFFSET[R], 54, 0, 0
+OFFSET[R], 105, 96, 156
 CALL[],1,19,63,79
 CALL[],122,60,62,54,25,80
 SHC[2],1
@@ -3479,8 +3464,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],54,0,0
-OFFSET[R],467,126,0
+OFFSET[R], 54, 0, 0
+OFFSET[R], 467, 126, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-123,66,58,54,25,80
 SHC[2],1
@@ -3538,7 +3523,6 @@ CALL[], 18, -32, 12, 0, 77
     </glyphProgram>
 
     <glyphProgram name="Slash">
-USEMYMETRICS[]
 OFFSET[R], 18, 11, 47
 
     </glyphProgram>
@@ -3581,7 +3565,7 @@ CALL[], 5, 8, 16, 17, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],55,0,0
+OFFSET[R], 55, 0, 0
 
     </glyphProgram>
 
@@ -3640,8 +3624,8 @@ CALL[], 6, -8, 10, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],55,0,0
-OFFSET[R],351,124,156
+OFFSET[R], 55, 0, 0
+OFFSET[R], 351, 124, 156
 CALL[],1,0,11,79
 CALL[],49,12,10,6,0,80
 SHC[2],1
@@ -3813,8 +3797,8 @@ CALL[], 28, -24, 12, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],143,168,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 143, 168, 156
 CALL[],1,9,31,79
 CALL[],93,32,30,4,24,80
 SHC[2],1
@@ -3825,8 +3809,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],353,175,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 353, 175, 156
 CALL[],1,9,30,79
 CALL[],101,34,49,4,24,80
 SHC[2],1
@@ -3837,8 +3821,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],105,169,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 105, 169, 156
 CALL[],1,9,35,79
 CALL[],71,32,34,4,24,80
 SHC[2],1
@@ -3849,8 +3833,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],131,176,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 131, 176, 156
 CALL[],1,9,30,79
 CALL[],2,9,42,79
 CALL[],84,32,50,4,24,80
@@ -3863,8 +3847,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],67,169,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 67, 169, 156
 CALL[],1,9,32,79
 CALL[],55,33,31,4,24,80
 SHC[2],1
@@ -3934,8 +3918,8 @@ CALL[], 3, -32, 10, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],357,203,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 357, 203, 156
 CALL[],1,9,31,79
 CALL[],2,9,35,79
 CALL[],128,32,34,4,24,80
@@ -3948,8 +3932,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],138,176,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 138, 176, 156
 CALL[],1,9,32,79
 CALL[],84,33,31,4,24,80
 SHC[2],1
@@ -4021,7 +4005,7 @@ CALL[], 41, 16, 15, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
+OFFSET[R], 60, 0, 0
 
     </glyphProgram>
 
@@ -4029,8 +4013,8 @@ OFFSET[R],60,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],131,127,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 131, 127, 156
 CALL[],1,4,17,79
 CALL[],2,4,29,79
 CALL[],31,19,37,4,12,80
@@ -4049,8 +4033,8 @@ OFFSET[R], 1002, -154, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],355,184,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 355, 184, 156
 /* No vertical hints due to negative contours in the composite parts */
 CALL[],71,39,30,4,24,80
 SHC[2],1
@@ -4062,8 +4046,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],117,174,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 117, 174, 156
 CALL[],1,9,49,79
 CALL[],84,50,37,4,24,80
 SHC[2],1
@@ -4215,8 +4199,8 @@ CALL[], 34, 24, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],58,0,0
-OFFSET[R],143,291,156
+OFFSET[R], 58, 0, 0
+OFFSET[R], 143, 291, 156
 CALL[],1,8,37,79
 CALL[],46,38,36,22,9,80
 SHC[2],1
@@ -4227,8 +4211,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],58,0,0
-OFFSET[R],105,292,156
+OFFSET[R], 58, 0, 0
+OFFSET[R], 105, 292, 156
 CALL[],1,8,41,79
 CALL[],24,38,40,22,9,80
 SHC[2],1
@@ -4239,8 +4223,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],58,0,0
-OFFSET[R],131,299,156
+OFFSET[R], 58, 0, 0
+OFFSET[R], 131, 299, 156
 CALL[],1,8,36,79
 CALL[],2,8,48,79
 CALL[],37,38,56,22,9,80
@@ -4253,8 +4237,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],58,0,0
-OFFSET[R],67,292,156
+OFFSET[R], 58, 0, 0
+OFFSET[R], 67, 292, 156
 CALL[],1,8,38,79
 CALL[],8,39,37,22,9,80
 SHC[2],1
@@ -4409,8 +4393,8 @@ CALL[], 14, -40, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],143,119,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 143, 119, 156
 CALL[],1,4,18,79
 CALL[],39,19,17,4,12,80
 SHC[2],1
@@ -4421,8 +4405,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],105,120,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 105, 120, 156
 CALL[],1,4,22,79
 CALL[],18,19,21,4,12,80
 SHC[2],1
@@ -4433,8 +4417,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],131,127,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 131, 127, 156
 CALL[],1,4,17,79
 CALL[],2,4,29,79
 CALL[],31,19,37,4,12,80
@@ -4447,8 +4431,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],67,120,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 67, 120, 156
 CALL[],1,4,19,79
 CALL[],1,20,18,4,12,80
 SHC[2],1
@@ -4499,8 +4483,8 @@ CALL[], 18, 8, 11, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],61,0,0
-OFFSET[R],143,121,156
+OFFSET[R], 61, 0, 0
+OFFSET[R], 143, 121, 156
 CALL[],1,20,23,79
 CALL[],128,24,22,10,21,80
 SHC[2],1
@@ -4511,8 +4495,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],61,0,0
-OFFSET[R],351,128,156
+OFFSET[R], 61, 0, 0
+OFFSET[R], 351, 128, 156
 CALL[],1,20,25,79
 CALL[],125,26,24,10,21,80
 SHC[2],1
@@ -4523,8 +4507,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],61,0,0
-OFFSET[R],354,151,156
+OFFSET[R], 61, 0, 0
+OFFSET[R], 354, 151, 156
 CALL[],1,20,22,79
 CALL[],118,24,30,10,21,80
 SHC[2],1
@@ -4535,7 +4519,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],61,0,0
+OFFSET[R], 61, 0, 0
 
     </glyphProgram>
 
@@ -4608,8 +4592,8 @@ DLTP1[(48 @1 8)]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],143,83,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 143, 83, 0
 CALL[],2,15,48,79
 CALL[],108,49,47,10,19,80
 SHC[2],2
@@ -4620,8 +4604,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],353,91,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 353, 91, 0
 CALL[],2,15,47,79
 CALL[],117,51,66,10,19,80
 SHC[2],2
@@ -4632,8 +4616,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],105,85,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 105, 85, 0
 CALL[],2,15,52,79
 CALL[],87,49,51,10,19,80
 SHC[2],2
@@ -4700,8 +4684,8 @@ CALL[], 3, -56, 22, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],131,91,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 131, 91, 0
 CALL[],2,15,47,79
 CALL[],3,15,59,79
 CALL[],99,49,67,10,19,80
@@ -4813,8 +4797,8 @@ CALL[], 84, 16, 13, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],193,0,0
-OFFSET[R],143,229,0
+OFFSET[R], 193, 0, 0
+OFFSET[R], 143, 229, 0
 CALL[],3,35,93,79
 CALL[],108,94,92,15,50,80
 SHC[2],3
@@ -4825,7 +4809,7 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],116,0,0
+OFFSET[R], 116, 0, 0
 
     </glyphProgram>
 
@@ -4833,7 +4817,7 @@ OFFSET[R],116,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
+OFFSET[R], 36, 0, 0
 
     </glyphProgram>
 
@@ -4893,7 +4877,7 @@ CALL[], 30, 32, 15, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],37,0,0
+OFFSET[R], 37, 0, 0
 
     </glyphProgram>
 
@@ -4994,7 +4978,7 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
+OFFSET[R], 40, 0, 0
 
     </glyphProgram>
 
@@ -5002,8 +4986,8 @@ OFFSET[R],40,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],131,135,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 131, 135, 156
 CALL[],1,1,12,79
 CALL[],2,1,24,79
 CALL[],116,14,32,0,2,80
@@ -5290,8 +5274,8 @@ CALL[], 10, -16, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],730,0,0
-OFFSET[R],931,204,156
+OFFSET[R], 730, 0, 0
+OFFSET[R], 931, 204, 156
 CALL[],1,1,18,79
 CALL[],125,21,31,0,9,80
 SHC[2],1
@@ -5302,7 +5286,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],46,0,0
+OFFSET[R], 46, 0, 0
 
     </glyphProgram>
 
@@ -5363,7 +5347,7 @@ CALL[], 19, 24, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],48,0,0
+OFFSET[R], 48, 0, 0
 
     </glyphProgram>
 
@@ -5371,7 +5355,7 @@ OFFSET[R],48,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],43,0,0
+OFFSET[R], 43, 0, 0
 
     </glyphProgram>
 
@@ -5379,7 +5363,7 @@ OFFSET[R],43,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
+OFFSET[R], 50, 0, 0
 
     </glyphProgram>
 
@@ -5426,7 +5410,7 @@ CALL[], 3, 16, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],51,0,0
+OFFSET[R], 51, 0, 0
 
     </glyphProgram>
 
@@ -5434,7 +5418,7 @@ OFFSET[R],51,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],38,0,0
+OFFSET[R], 38, 0, 0
 
     </glyphProgram>
 
@@ -5442,7 +5426,7 @@ OFFSET[R],38,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],55,0,0
+OFFSET[R], 55, 0, 0
 
     </glyphProgram>
 
@@ -5576,7 +5560,7 @@ CALL[], 45, -40, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],59,0,0
+OFFSET[R], 59, 0, 0
 
     </glyphProgram>
 
@@ -6276,8 +6260,8 @@ CALL[], 3, -40, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],725,0,0
-OFFSET[R],143,134,156
+OFFSET[R], 725, 0, 0
+OFFSET[R], 143, 134, 156
 CALL[],1,0,7,79
 CALL[],140,8,6,4,0,80
 SHC[2],1
@@ -6341,7 +6325,7 @@ CALL[], 22, -16, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],54,0,0
+OFFSET[R], 54, 0, 0
 
     </glyphProgram>
 
@@ -6349,7 +6333,7 @@ OFFSET[R],54,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
+OFFSET[R], 44, 0, 0
 
     </glyphProgram>
 
@@ -6357,8 +6341,8 @@ OFFSET[R],44,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],131,-19,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 131, -19, 156
 CALL[],1,0,4,79
 CALL[],2,0,16,79
 CALL[],118,6,24,3,1,80
@@ -6371,7 +6355,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],45,0,0
+OFFSET[R], 45, 0, 0
 
     </glyphProgram>
 
@@ -6595,8 +6579,8 @@ CALL[], 15, -16, 11, 12, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],46,0,0
-OFFSET[R],143,159,156
+OFFSET[R], 46, 0, 0
+OFFSET[R], 143, 159, 156
 CALL[],1,0,28,79
 CALL[],110,29,27,18,0,80
 SHC[2],1
@@ -6607,8 +6591,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],741,0,0
-OFFSET[R],931,118,156
+OFFSET[R], 741, 0, 0
+OFFSET[R], 931, 118, 156
 CALL[],1,22,37,79
 CALL[],100,40,50,8,32,80
 SHC[2],1
@@ -6619,7 +6603,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
+OFFSET[R], 68, 0, 0
 
     </glyphProgram>
 
@@ -6933,7 +6917,7 @@ CALL[], 44, -24, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],74,0,0
+OFFSET[R], 74, 0, 0
 
     </glyphProgram>
 
@@ -6941,7 +6925,7 @@ OFFSET[R],74,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
+OFFSET[R], 72, 0, 0
 
     </glyphProgram>
 
@@ -6949,8 +6933,8 @@ OFFSET[R],72,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],131,82,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 131, 82, 0
 CALL[],2,24,54,79
 CALL[],3,24,66,79
 CALL[],103,56,74,19,29,80
@@ -7110,7 +7094,7 @@ CALL[], 36, -32, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
+OFFSET[R], 88, 0, 0
 
     </glyphProgram>
 
@@ -7118,8 +7102,8 @@ OFFSET[R],88,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],931,76,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 931, 76, 0
 CALL[],1,9,43,79
 CALL[],76,46,56,4,27,80
 SHC[2],1
@@ -7414,7 +7398,7 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
+OFFSET[R], 82, 0, 0
 
     </glyphProgram>
 
@@ -7422,7 +7406,7 @@ OFFSET[R],82,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],81,0,0
+OFFSET[R], 81, 0, 0
 
     </glyphProgram>
 
@@ -7499,7 +7483,7 @@ CALL[], 28, 16, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],83,0,0
+OFFSET[R], 83, 0, 0
 
     </glyphProgram>
 
@@ -7507,7 +7491,7 @@ OFFSET[R],83,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],70,0,0
+OFFSET[R], 70, 0, 0
 
     </glyphProgram>
 
@@ -7515,7 +7499,7 @@ OFFSET[R],70,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],80,0,0
+OFFSET[R], 80, 0, 0
 
     </glyphProgram>
 
@@ -7607,7 +7591,7 @@ DLTP1[(72 @3 8)]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
+OFFSET[R], 92, 0, 0
 
     </glyphProgram>
 
@@ -7689,7 +7673,7 @@ CALL[], 22, -32, 10, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],91,0,0
+OFFSET[R], 91, 0, 0
 
     </glyphProgram>
 
@@ -8433,8 +8417,8 @@ DLTP1[(17 @0 -3)]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],757,0,0
-OFFSET[R],143,6,0
+OFFSET[R], 757, 0, 0
+OFFSET[R], 143, 6, 0
 CALL[],1,16,53,79
 CALL[],99,54,52,46,19,80
 SHC[2],1
@@ -8493,7 +8477,7 @@ CALL[], 26, -40, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],86,0,0
+OFFSET[R], 86, 0, 0
 
     </glyphProgram>
 
@@ -8501,7 +8485,7 @@ OFFSET[R],86,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],76,0,0
+OFFSET[R], 76, 0, 0
 
     </glyphProgram>
 
@@ -8509,8 +8493,8 @@ OFFSET[R],76,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],131,-63,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 131, -63, 0
 CALL[],1,2,4,79
 CALL[],2,2,16,79
 CALL[],102,6,24,1,3,80
@@ -8523,7 +8507,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],77,0,0
+OFFSET[R], 77, 0, 0
 
     </glyphProgram>
 
@@ -8672,7 +8656,7 @@ CALL[], 7, -24, 12, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],258,0,0
+OFFSET[R], 258, 0, 0
 
     </glyphProgram>
 
@@ -8680,8 +8664,8 @@ OFFSET[R],258,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],764,0,0
-OFFSET[R],143,89,0
+OFFSET[R], 764, 0, 0
+OFFSET[R], 143, 89, 0
 CALL[],1,2,26,79
 CALL[],113,27,25,1,10,80
 SHC[2],1
@@ -8692,8 +8676,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],931,25,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 931, 25, 0
 CALL[],1,5,35,79
 CALL[],123,38,48,19,6,80
 SHC[2],1
@@ -8933,8 +8917,8 @@ CALL[], 10, 40, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],67,85,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 67, 85, 0
 CALL[],2,15,49,79
 CALL[],71,50,48,10,19,80
 SHC[2],2
@@ -9000,8 +8984,8 @@ CALL[], 36, 32, 15, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1001,58,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1001, 58, 0
 CALL[],2,22,50,79
 CALL[],110,51,49,17,26,80
 SHC[2],2
@@ -9012,8 +8996,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],138,92,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 138, 92, 0
 CALL[],2,15,49,79
 CALL[],100,50,48,10,19,80
 SHC[2],2
@@ -9272,7 +9256,6 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="approxequal">
-USEMYMETRICS[]
 OFFSET[R], 97, 26, 108
 OFFSET[R], 97, -24, -106
 
@@ -9282,8 +9265,8 @@ OFFSET[R], 97, -24, -106
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],355,110,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 355, 110, 0
 /* No vertical hints due to negative contours in the composite parts */
 CALL[],97,56,47,10,19,80
 SHC[2],2
@@ -9295,8 +9278,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],693,89,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 693, 89, 0
 /* No vertical hints due to negative contours in the composite parts */
 CALL[],111,52,71,10,19,80
 SHC[2],2
@@ -9530,8 +9513,8 @@ CALL[], 80, -24, 13, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],117,90,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 117, 90, 0
 CALL[],2,15,66,79
 CALL[],100,67,54,10,19,80
 SHC[2],2
@@ -10098,8 +10081,8 @@ CALL[], 37, 64, 13, 20, 72
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],70,0,0
-OFFSET[R],143,80,0
+OFFSET[R], 70, 0, 0
+OFFSET[R], 143, 80, 0
 CALL[],1,4,37,79
 CALL[],130,38,36,0,8,80
 SHC[2],1
@@ -10206,8 +10189,8 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],70,0,0
-OFFSET[R],351,86,0
+OFFSET[R], 70, 0, 0
+OFFSET[R], 351, 86, 0
 CALL[],1,4,39,79
 CALL[],127,40,38,0,8,80
 SHC[2],1
@@ -10297,8 +10280,8 @@ CALL[], 58, 88, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],70,0,0
-OFFSET[R],105,80,0
+OFFSET[R], 70, 0, 0
+OFFSET[R], 105, 80, 0
 CALL[],1,4,41,79
 CALL[],108,38,40,0,8,80
 SHC[2],1
@@ -10309,8 +10292,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],70,0,0
-OFFSET[R],354,110,0
+OFFSET[R], 70, 0, 0
+OFFSET[R], 354, 110, 0
 CALL[],1,4,36,79
 CALL[],121,38,44,0,8,80
 SHC[2],1
@@ -10416,7 +10399,7 @@ CALL[], 23, 40, 20, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],91,0,0
+OFFSET[R], 91, 0, 0
 
     </glyphProgram>
 
@@ -10490,8 +10473,8 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="colon">
-USEMYMETRICS[]
 OFFSET[R], 17, 95, 399
+USEMYMETRICS[]
 OFFSET[R], 17, 0, 0
 
     </glyphProgram>
@@ -11609,8 +11592,8 @@ CALL[], 28, -16, 13, 14, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],143,74,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 143, 74, 0
 CALL[],2,24,55,79
 CALL[],111,56,54,19,29,80
 SHC[2],2
@@ -11621,8 +11604,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],353,81,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 353, 81, 0
 CALL[],2,24,54,79
 CALL[],119,58,73,19,29,80
 SHC[2],2
@@ -11633,8 +11616,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],351,80,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 351, 80, 0
 CALL[],2,24,57,79
 CALL[],108,58,56,19,29,80
 SHC[2],2
@@ -11645,8 +11628,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],105,75,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 105, 75, 0
 CALL[],2,24,59,79
 CALL[],90,56,58,19,29,80
 SHC[2],2
@@ -11657,8 +11640,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],131,82,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 131, 82, 0
 CALL[],2,24,54,79
 CALL[],3,24,66,79
 CALL[],103,56,74,19,29,80
@@ -11671,8 +11654,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],354,105,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 354, 105, 0
 CALL[],2,24,54,79
 CALL[],103,56,62,19,29,80
 SHC[2],2
@@ -11683,8 +11666,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],67,76,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 67, 76, 0
 CALL[],2,24,56,79
 CALL[],74,57,55,19,29,80
 SHC[2],2
@@ -11794,19 +11777,16 @@ OFFSET[R], 27, -12, 0
     </glyphProgram>
 
     <glyphProgram name="eight.sinf">
-USEMYMETRICS[]
 OFFSET[R], 373, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="eight.sups">
-USEMYMETRICS[]
 OFFSET[R], 373, 29, 120
 
     </glyphProgram>
 
     <glyphProgram name="eightinferior">
-USEMYMETRICS[]
 OFFSET[R], 373, -74, -313
 
     </glyphProgram>
@@ -11890,8 +11870,8 @@ OFFSET[R], 17, 708, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],138,83,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 138, 83, 0
 CALL[],2,24,56,79
 CALL[],103,57,55,19,29,80
 SHC[2],2
@@ -12109,8 +12089,8 @@ CALL[], 48, -16, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1001,26,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1001, 26, 0
 CALL[],1,0,51,79
 CALL[],118,52,50,38,2,80
 SHC[2],1
@@ -12203,8 +12183,8 @@ CALL[], 8, -24, 11, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1001,55,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1001, 55, 0
 CALL[],1,5,27,79
 CALL[],130,28,26,1,10,80
 SHC[2],1
@@ -12451,7 +12431,7 @@ OFFSET[R], 430, 372, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],428,0,0
+OFFSET[R], 428, 0, 0
 
     </glyphProgram>
 
@@ -12459,7 +12439,7 @@ OFFSET[R],428,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],430,0,0
+OFFSET[R], 430, 0, 0
 
     </glyphProgram>
 
@@ -12603,13 +12583,11 @@ OFFSET[R], 24, -38, 0
     </glyphProgram>
 
     <glyphProgram name="five.sinf">
-USEMYMETRICS[]
 OFFSET[R], 370, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="five.sups">
-USEMYMETRICS[]
 OFFSET[R], 370, 29, 120
 
     </glyphProgram>
@@ -12622,7 +12600,6 @@ OFFSET[R], 373, 439, -313
     </glyphProgram>
 
     <glyphProgram name="fiveinferior">
-USEMYMETRICS[]
 OFFSET[R], 370, -74, -313
 
     </glyphProgram>
@@ -12876,13 +12853,11 @@ OFFSET[R], 23, -13, 0
     </glyphProgram>
 
     <glyphProgram name="four.sinf">
-USEMYMETRICS[]
 OFFSET[R], 369, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="four.sups">
-USEMYMETRICS[]
 OFFSET[R], 369, 29, 120
 
     </glyphProgram>
@@ -12895,7 +12870,6 @@ OFFSET[R], 370, 439, -313
     </glyphProgram>
 
     <glyphProgram name="fourinferior">
-USEMYMETRICS[]
 OFFSET[R], 369, -74, -313
 
     </glyphProgram>
@@ -13103,8 +13077,8 @@ CALL[], 15, -8, 15, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],74,0,0
-OFFSET[R],353,95,0
+OFFSET[R], 74, 0, 0
+OFFSET[R], 353, 95, 0
 CALL[],2,16,50,79
 CALL[],154,54,69,31,22,80
 SHC[2],2
@@ -13115,8 +13089,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],74,0,0
-OFFSET[R],351,95,0
+OFFSET[R], 74, 0, 0
+OFFSET[R], 351, 95, 0
 CALL[],2,16,53,79
 CALL[],144,54,52,31,22,80
 SHC[2],2
@@ -13127,8 +13101,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],74,0,0
-OFFSET[R],105,88,0
+OFFSET[R], 74, 0, 0
+OFFSET[R], 105, 88, 0
 CALL[],2,16,55,79
 CALL[],124,52,54,31,22,80
 SHC[2],2
@@ -13139,8 +13113,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],74,0,0
-OFFSET[R],468,173,0
+OFFSET[R], 74, 0, 0
+OFFSET[R], 468, 173, 0
 CALL[],2,16,50,79
 CALL[],163,50,54,31,22,80
 SHC[2],2
@@ -13151,8 +13125,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],74,0,0
-OFFSET[R],354,118,0
+OFFSET[R], 74, 0, 0
+OFFSET[R], 354, 118, 0
 CALL[],2,16,50,79
 CALL[],137,52,58,31,22,80
 SHC[2],2
@@ -13336,7 +13310,6 @@ CALL[], 5, -8, 9, 0, 77
     </glyphProgram>
 
     <glyphProgram name="greaterequal">
-USEMYMETRICS[]
 OFFSET[R], 416, -62, -257
 OFFSET[R], 33, 13, 64
 
@@ -13574,8 +13547,8 @@ CALL[], 34, -8, 13, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],75,0,0
-OFFSET[R],701,-20,0
+OFFSET[R], 75, 0, 0
+OFFSET[R], 701, -20, 0
 CALL[],1,2,28,79
 CALL[],56,31,27,0,10,80
 SHC[2],1
@@ -13696,7 +13669,7 @@ DLTP1[(17 @4 8)(17 @7 8)(17 @10 8)]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],76,0,0
+OFFSET[R], 76, 0, 0
 
     </glyphProgram>
 
@@ -13704,8 +13677,8 @@ OFFSET[R],76,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],143,-70,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 143, -70, 0
 CALL[],1,2,5,79
 CALL[],111,6,4,1,3,80
 SHC[2],1
@@ -13716,8 +13689,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],353,-63,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 353, -63, 0
 CALL[],1,2,4,79
 CALL[],119,8,23,1,3,80
 SHC[2],1
@@ -13728,8 +13701,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],105,-69,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 105, -69, 0
 CALL[],1,2,9,79
 CALL[],90,6,8,1,3,80
 SHC[2],1
@@ -13740,8 +13713,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],131,-63,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 131, -63, 0
 CALL[],1,2,4,79
 CALL[],2,2,16,79
 CALL[],102,6,24,1,3,80
@@ -13754,8 +13727,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],67,-69,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 67, -69, 0
 CALL[],1,2,6,79
 CALL[],73,7,5,1,3,80
 SHC[2],1
@@ -13772,8 +13745,8 @@ OFFSET[R], 77, 252, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],138,-62,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 138, -62, 0
 CALL[],1,2,6,79
 CALL[],102,7,5,1,3,80
 SHC[2],1
@@ -13960,8 +13933,8 @@ CALL[], 13, 16, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],131,-68,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 131, -68, 0
 CALL[],1,14,16,79
 CALL[],2,14,28,79
 CALL[],83,18,36,9,15,80
@@ -13974,8 +13947,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1003,-58,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1003, -58, 0
 CALL[],1,14,16,79
 CALL[],2,14,28,79
 CALL[],3,14,41,79
@@ -13990,8 +13963,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1001,-101,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1001, -101, 0
 CALL[],1,14,17,79
 CALL[],93,18,16,9,15,80
 SHC[2],1
@@ -14002,8 +13975,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],117,-64,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 117, -64, 0
 CALL[],1,2,23,79
 CALL[],102,24,11,1,3,80
 SHC[2],1
@@ -14060,8 +14033,8 @@ CALL[], 31, 64, 13, 16, 72
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],349,0,0
-OFFSET[R],105,-72,0
+OFFSET[R], 349, 0, 0
+OFFSET[R], 105, -72, 0
 CALL[],1,16,23,79
 CALL[],180,20,22,8,17,80
 SHC[2],1
@@ -14162,7 +14135,7 @@ CALL[], 23, -32, 19, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],764,0,0
+OFFSET[R], 764, 0, 0
 
     </glyphProgram>
 
@@ -14170,8 +14143,8 @@ OFFSET[R],764,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],78,0,0
-OFFSET[R],467,166,0
+OFFSET[R], 78, 0, 0
+OFFSET[R], 467, 166, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-98,33,25,0,9,80
 SHC[2],1
@@ -14182,7 +14155,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],764,0,0
+OFFSET[R], 764, 0, 0
 
     </glyphProgram>
 
@@ -14256,8 +14229,8 @@ CALL[], 10, 16, 13, 15, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],79,0,0
-OFFSET[R],700,-42,0
+OFFSET[R], 79, 0, 0
+OFFSET[R], 700, -42, 0
 CALL[],1,17,19,79
 CALL[],123,20,18,11,17,80
 SHC[2],1
@@ -14337,8 +14310,8 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],79,0,0
-OFFSET[R],467,33,0
+OFFSET[R], 79, 0, 0
+OFFSET[R], 467, 33, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-125,26,18,11,17,80
 SHC[2],1
@@ -14409,7 +14382,6 @@ CALL[], 5, -48, 17, 0, 77
     </glyphProgram>
 
     <glyphProgram name="lessequal">
-USEMYMETRICS[]
 OFFSET[R], 416, -62, -257
 OFFSET[R], 31, 13, 64
 
@@ -14889,8 +14861,8 @@ CALL[], 20, 16, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],81,0,0
-OFFSET[R],143,84,0
+OFFSET[R], 81, 0, 0
+OFFSET[R], 143, 84, 0
 CALL[],1,4,27,79
 CALL[],132,28,26,1,9,80
 SHC[2],1
@@ -14901,8 +14873,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],81,0,0
-OFFSET[R],350,-116,0
+OFFSET[R], 81, 0, 0
+OFFSET[R], 350, -116, 0
 CALL[],1,4,29,79
 CALL[],-85,30,26,1,9,80
 SHC[2],1
@@ -14919,8 +14891,8 @@ OFFSET[R], 350, -137, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],81,0,0
-OFFSET[R],351,90,0
+OFFSET[R], 81, 0, 0
+OFFSET[R], 351, 90, 0
 CALL[],1,4,29,79
 CALL[],129,30,28,1,9,80
 SHC[2],1
@@ -14931,8 +14903,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],81,0,0
-OFFSET[R],467,152,0
+OFFSET[R], 81, 0, 0
+OFFSET[R], 467, 152, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-97,34,26,1,9,80
 SHC[2],1
@@ -15006,19 +14978,16 @@ OFFSET[R], 28, -4, 0
     </glyphProgram>
 
     <glyphProgram name="nine.sinf">
-USEMYMETRICS[]
 OFFSET[R], 374, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="nine.sups">
-USEMYMETRICS[]
 OFFSET[R], 374, 29, 120
 
     </glyphProgram>
 
     <glyphProgram name="nineinferior">
-USEMYMETRICS[]
 OFFSET[R], 374, -74, -313
 
     </glyphProgram>
@@ -15129,8 +15098,8 @@ CALL[], 19, -24, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],81,0,0
-OFFSET[R],117,89,0
+OFFSET[R], 81, 0, 0
+OFFSET[R], 117, 89, 0
 CALL[],1,4,45,79
 CALL[],122,46,33,1,9,80
 SHC[2],1
@@ -15141,7 +15110,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],89,0,0
+OFFSET[R], 89, 0, 0
 
     </glyphProgram>
 
@@ -15280,8 +15249,8 @@ CALL[], 14, -16, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],143,80,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 143, 80, 0
 CALL[],2,7,33,79
 CALL[],109,34,32,2,10,80
 SHC[2],2
@@ -15292,8 +15261,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],353,87,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 353, 87, 0
 CALL[],2,7,32,79
 CALL[],117,36,51,2,10,80
 SHC[2],2
@@ -15304,8 +15273,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],105,80,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 105, 80, 0
 CALL[],2,7,37,79
 CALL[],86,34,36,2,10,80
 SHC[2],2
@@ -15316,8 +15285,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],131,87,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 131, 87, 0
 CALL[],2,7,32,79
 CALL[],3,7,44,79
 CALL[],99,34,52,2,10,80
@@ -15440,8 +15409,8 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],67,81,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 67, 81, 0
 CALL[],2,7,34,79
 CALL[],71,35,33,2,10,80
 SHC[2],2
@@ -15492,8 +15461,8 @@ CALL[], 42, -16, 17, 18, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],357,115,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 357, 115, 0
 CALL[],2,7,33,79
 CALL[],3,7,37,79
 CALL[],144,34,36,2,10,80
@@ -15506,8 +15475,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],138,88,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 138, 88, 0
 CALL[],2,7,34,79
 CALL[],100,35,33,2,10,80
 SHC[2],2
@@ -15608,8 +15577,8 @@ CALL[], 58, -8, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1001,185,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1001, 185, 0
 CALL[],1,14,61,79
 CALL[],118,62,60,10,56,80
 SHC[2],1
@@ -15620,7 +15589,7 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
+OFFSET[R], 82, 0, 0
 
     </glyphProgram>
 
@@ -15628,8 +15597,8 @@ OFFSET[R],82,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1001,54,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1001, 54, 0
 CALL[],2,7,33,79
 CALL[],110,34,32,2,10,80
 SHC[2],2
@@ -15693,13 +15662,11 @@ OFFSET[R], 20, -85, 0
     </glyphProgram>
 
     <glyphProgram name="one.sinf">
-USEMYMETRICS[]
 OFFSET[R], 148, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="one.sups">
-USEMYMETRICS[]
 OFFSET[R], 148, 29, 120
 
     </glyphProgram>
@@ -15726,7 +15693,6 @@ OFFSET[R], 141, 439, -313
     </glyphProgram>
 
     <glyphProgram name="oneinferior">
-USEMYMETRICS[]
 OFFSET[R], 148, -74, -313
 
     </glyphProgram>
@@ -15955,8 +15921,8 @@ CALL[], 45, -32, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],211,0,0
-OFFSET[R],143,80,0
+OFFSET[R], 211, 0, 0
+OFFSET[R], 143, 80, 0
 CALL[],3,20,48,79
 CALL[],109,49,47,9,21,80
 SHC[2],3
@@ -15967,8 +15933,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],117,86,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 117, 86, 0
 CALL[],2,7,51,79
 CALL[],100,52,39,2,10,80
 SHC[2],2
@@ -16288,7 +16254,6 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="periodcentered">
-USEMYMETRICS[]
 OFFSET[R], 17, 57, 240
 
     </glyphProgram>
@@ -17003,8 +16968,8 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],85,0,0
-OFFSET[R],143,25,0
+OFFSET[R], 85, 0, 0
+OFFSET[R], 143, 25, 0
 CALL[],1,0,19,79
 CALL[],116,20,18,14,5,80
 SHC[2],1
@@ -17056,8 +17021,8 @@ CALL[], 16, -8, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],85,0,0
-OFFSET[R],351,32,0
+OFFSET[R], 85, 0, 0
+OFFSET[R], 351, 32, 0
 CALL[],1,0,21,79
 CALL[],113,22,20,14,5,80
 SHC[2],1
@@ -17068,8 +17033,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],85,0,0
-OFFSET[R],467,-3,0
+OFFSET[R], 85, 0, 0
+OFFSET[R], 467, -3, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-209,26,18,14,5,80
 SHC[2],1
@@ -17437,8 +17402,8 @@ DLTP1[(55 @2 -8)]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],86,0,0
-OFFSET[R],143,18,0
+OFFSET[R], 86, 0, 0
+OFFSET[R], 143, 18, 0
 CALL[],1,17,55,79
 CALL[],127,56,54,48,21,80
 SHC[2],1
@@ -17449,8 +17414,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],86,0,0
-OFFSET[R],351,25,0
+OFFSET[R], 86, 0, 0
+OFFSET[R], 351, 25, 0
 CALL[],1,17,57,79
 CALL[],125,58,56,48,21,80
 SHC[2],1
@@ -17529,8 +17494,8 @@ CALL[], 68, -40, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],86,0,0
-OFFSET[R],105,18,0
+OFFSET[R], 86, 0, 0
+OFFSET[R], 105, 18, 0
 CALL[],1,17,59,79
 CALL[],105,56,58,48,21,80
 SHC[2],1
@@ -17541,8 +17506,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],86,0,0
-OFFSET[R],467,86,0
+OFFSET[R], 86, 0, 0
+OFFSET[R], 467, 86, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-102,62,54,48,21,80
 SHC[2],1
@@ -17644,8 +17609,8 @@ CALL[], 57, 48, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],15,0,0
-OFFSET[R],17,95,399
+OFFSET[R], 15, 0, 0
+OFFSET[R], 17, 95, 399
 CALL[],1,0,12,79
 CALL[],128,14,20,6,0,80
 SHC[2],1
@@ -17686,13 +17651,11 @@ OFFSET[R], 26, -46, 0
     </glyphProgram>
 
     <glyphProgram name="seven.sinf">
-USEMYMETRICS[]
 OFFSET[R], 372, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="seven.sups">
-USEMYMETRICS[]
 OFFSET[R], 372, 29, 120
 
     </glyphProgram>
@@ -17705,7 +17668,6 @@ OFFSET[R], 373, 439, -313
     </glyphProgram>
 
     <glyphProgram name="seveninferior">
-USEMYMETRICS[]
 OFFSET[R], 372, -74, -313
 
     </glyphProgram>
@@ -17892,19 +17854,16 @@ OFFSET[R], 25, -12, 0
     </glyphProgram>
 
     <glyphProgram name="six.sinf">
-USEMYMETRICS[]
 OFFSET[R], 371, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="six.sups">
-USEMYMETRICS[]
 OFFSET[R], 371, 29, 120
 
     </glyphProgram>
 
     <glyphProgram name="sixinferior">
-USEMYMETRICS[]
 OFFSET[R], 371, -74, -313
 
     </glyphProgram>
@@ -18242,8 +18201,8 @@ CALL[], 2, 24, 15, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],87,0,0
-OFFSET[R],466,86,0
+OFFSET[R], 87, 0, 0
+OFFSET[R], 466, 86, 0
 /* No vertical hints due to overlapping parts */
 CALL[],154,26,24,2,9,80
 SHC[2],1
@@ -18460,13 +18419,11 @@ OFFSET[R], 22, -36, 0
     </glyphProgram>
 
     <glyphProgram name="three.sinf">
-USEMYMETRICS[]
 OFFSET[R], 142, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="three.sups">
-USEMYMETRICS[]
 OFFSET[R], 142, 29, 120
 
     </glyphProgram>
@@ -18486,7 +18443,6 @@ OFFSET[R], 370, 439, -313
     </glyphProgram>
 
     <glyphProgram name="threeinferior">
-USEMYMETRICS[]
 OFFSET[R], 142, -74, -313
 
     </glyphProgram>
@@ -18780,13 +18736,11 @@ OFFSET[R], 21, -23, 0
     </glyphProgram>
 
     <glyphProgram name="two.sinf">
-USEMYMETRICS[]
 OFFSET[R], 141, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="two.sups">
-USEMYMETRICS[]
 OFFSET[R], 141, 29, 120
 
     </glyphProgram>
@@ -18799,7 +18753,6 @@ OFFSET[R], 370, 439, -313
     </glyphProgram>
 
     <glyphProgram name="twoinferior">
-USEMYMETRICS[]
 OFFSET[R], 141, -74, -313
 
     </glyphProgram>
@@ -18933,8 +18886,8 @@ CALL[], 28, 16, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],143,72,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 143, 72, 0
 CALL[],1,9,44,79
 CALL[],86,45,43,4,27,80
 SHC[2],1
@@ -18945,8 +18898,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],353,78,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 353, 78, 0
 CALL[],1,9,43,79
 CALL[],93,47,62,4,27,80
 SHC[2],1
@@ -19045,8 +18998,8 @@ CALL[], 138, -32, 14, 16, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],105,72,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 105, 72, 0
 CALL[],1,9,48,79
 CALL[],64,45,47,4,27,80
 SHC[2],1
@@ -19057,8 +19010,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],131,79,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 131, 79, 0
 CALL[],1,9,43,79
 CALL[],2,9,55,79
 CALL[],77,45,63,4,27,80
@@ -19071,8 +19024,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],67,73,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 67, 73, 0
 CALL[],1,9,45,79
 CALL[],48,46,44,4,27,80
 SHC[2],1
@@ -19147,8 +19100,8 @@ CALL[], 30, 24, 12, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],357,106,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 357, 106, 0
 CALL[],1,9,44,79
 CALL[],2,9,48,79
 CALL[],121,45,47,4,27,80
@@ -19161,8 +19114,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],138,80,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 138, 80, 0
 CALL[],1,9,45,79
 CALL[],77,46,44,4,27,80
 SHC[2],1
@@ -19195,7 +19148,7 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],16,0,0
+OFFSET[R], 16, 0, 0
 
     </glyphProgram>
 
@@ -19456,7 +19409,7 @@ CALL[], 57, 40, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],723,0,0
+OFFSET[R], 723, 0, 0
 
     </glyphProgram>
 
@@ -19815,7 +19768,7 @@ CALL[], 48, 24, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],171,0,0
+OFFSET[R], 171, 0, 0
 
     </glyphProgram>
 
@@ -21054,7 +21007,7 @@ CALL[], 22, 16, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
+OFFSET[R], 962, 0, 0
 
     </glyphProgram>
 
@@ -21488,7 +21441,7 @@ CALL[], 36, -24, 21, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],757,0,0
+OFFSET[R], 757, 0, 0
 
     </glyphProgram>
 
@@ -21496,7 +21449,7 @@ OFFSET[R],757,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],949,0,0
+OFFSET[R], 949, 0, 0
 
     </glyphProgram>
 
@@ -22647,7 +22600,7 @@ CALL[], 25, 32, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],95,0,0
+OFFSET[R], 95, 0, 0
 
     </glyphProgram>
 
@@ -22827,8 +22780,8 @@ OFFSET[R], 77, 559, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],351,165,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 351, 165, 156
 CALL[],2,5,26,79
 CALL[],201,27,25,2,11,80
 SHC[2],2
@@ -22839,8 +22792,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],351,90,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 351, 90, 0
 CALL[],2,15,50,79
 CALL[],105,51,49,10,19,80
 SHC[2],2
@@ -22851,8 +22804,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],351,-20,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 351, -20, 156
 CALL[],1,0,7,79
 CALL[],124,8,6,3,1,80
 SHC[2],1
@@ -22863,8 +22816,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],351,-64,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 351, -64, 0
 CALL[],1,2,7,79
 CALL[],108,8,6,1,3,80
 SHC[2],1
@@ -22875,8 +22828,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],351,216,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 351, 216, 156
 CALL[],2,0,39,79
 CALL[],122,40,38,14,4,80
 SHC[2],2
@@ -22887,8 +22840,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],351,86,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 351, 86, 0
 CALL[],2,7,35,79
 CALL[],105,36,34,2,10,80
 SHC[2],2
@@ -22899,8 +22852,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],351,174,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 351, 174, 156
 CALL[],1,9,33,79
 CALL[],89,34,32,4,24,80
 SHC[2],1
@@ -22911,8 +22864,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],351,79,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 351, 79, 0
 CALL[],1,9,46,79
 CALL[],84,47,45,4,27,80
 SHC[2],1
@@ -22923,8 +22876,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],694,177,160
+OFFSET[R], 56, 0, 0
+OFFSET[R], 694, 177, 160
 CALL[],1,9,30,79
 CALL[],2,9,42,79
 CALL[],3,36,56,79
@@ -22939,8 +22892,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],694,80,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 694, 80, 0
 CALL[],1,9,43,79
 CALL[],2,9,55,79
 CALL[],3,49,69,79
@@ -22955,8 +22908,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],704,137,0
+OFFSET[R], 56, 0, 0
+OFFSET[R], 704, 137, 0
 CALL[],1,9,31,79
 CALL[],2,9,34,79
 CALL[],3,9,46,79
@@ -22971,8 +22924,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],697,80,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 697, 80, 0
 CALL[],1,9,43,79
 CALL[],2,9,55,79
 CALL[],3,9,68,79
@@ -22987,8 +22940,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],705,137,0
+OFFSET[R], 56, 0, 0
+OFFSET[R], 705, 137, 0
 CALL[],1,9,30,79
 CALL[],2,9,42,79
 CALL[],3,9,59,79
@@ -23003,8 +22956,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],698,79,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 698, 79, 0
 CALL[],1,9,43,79
 CALL[],2,9,55,79
 CALL[],3,9,72,79
@@ -23019,8 +22972,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],703,137,0
+OFFSET[R], 56, 0, 0
+OFFSET[R], 703, 137, 0
 CALL[],1,9,30,79
 CALL[],2,9,42,79
 CALL[],3,9,56,79
@@ -23035,8 +22988,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],696,79,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 696, 79, 0
 CALL[],1,9,43,79
 CALL[],2,9,55,79
 CALL[],3,9,69,79
@@ -23100,8 +23053,8 @@ CALL[], 32, 16, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],694,167,160
+OFFSET[R], 36, 0, 0
+OFFSET[R], 694, 167, 160
 CALL[],2,5,23,79
 CALL[],3,5,35,79
 CALL[],4,30,49,79
@@ -23116,8 +23069,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],694,91,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 694, 91, 0
 CALL[],2,15,47,79
 CALL[],3,15,59,79
 CALL[],4,53,73,79
@@ -23132,8 +23085,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],695,168,160
+OFFSET[R], 36, 0, 0
+OFFSET[R], 695, 168, 160
 CALL[],2,5,23,79
 CALL[],3,30,37,79
 CALL[],219,38,36,2,11,80
@@ -23146,8 +23099,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],695,92,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 695, 92, 0
 CALL[],2,15,47,79
 CALL[],3,53,61,79
 CALL[],123,62,60,10,19,80
@@ -23160,8 +23113,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],161,0,0
-OFFSET[R],138,421,156
+OFFSET[R], 161, 0, 0
+OFFSET[R], 138, 421, 156
 CALL[],2,10,29,79
 CALL[],255,30,28,5,11,80
 SHC[2],2
@@ -23172,8 +23125,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],193,0,0
-OFFSET[R],138,237,0
+OFFSET[R], 193, 0, 0
+OFFSET[R], 138, 237, 0
 CALL[],3,35,94,79
 CALL[],99,95,93,15,50,80
 SHC[2],3
@@ -23344,8 +23297,8 @@ CALL[], 52, -32, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],46,0,0
-OFFSET[R],351,155,156
+OFFSET[R], 46, 0, 0
+OFFSET[R], 351, 155, 156
 CALL[],1,0,30,79
 CALL[],96,31,29,18,0,80
 SHC[2],1
@@ -23356,8 +23309,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],78,0,0
-OFFSET[R],702,-8,0
+OFFSET[R], 78, 0, 0
+OFFSET[R], 702, -8, 0
 CALL[],1,2,30,79
 CALL[],54,25,29,0,9,80
 SHC[2],1
@@ -23463,8 +23416,8 @@ CALL[], 54, -40, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],593,0,0
-OFFSET[R],138,217,156
+OFFSET[R], 593, 0, 0
+OFFSET[R], 138, 217, 156
 CALL[],2,34,63,79
 CALL[],116,64,62,29,39,80
 SHC[2],2
@@ -23475,8 +23428,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],594,0,0
-OFFSET[R],138,88,0
+OFFSET[R], 594, 0, 0
+OFFSET[R], 138, 88, 0
 CALL[],2,36,58,79
 CALL[],100,59,57,31,0,80
 SHC[2],2
@@ -23487,8 +23440,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],542,0,0
-OFFSET[R],351,116,156
+OFFSET[R], 542, 0, 0
+OFFSET[R], 351, 116, 156
 CALL[],1,7,44,79
 CALL[],131,45,43,27,8,80
 SHC[2],1
@@ -23499,8 +23452,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],690,0,0
-OFFSET[R],351,-1,0
+OFFSET[R], 690, 0, 0
+OFFSET[R], 351, -1, 0
 CALL[],1,37,42,79
 CALL[],117,43,41,14,38,80
 SHC[2],1
@@ -23511,8 +23464,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],349,0,0
-OFFSET[R],351,-66,0
+OFFSET[R], 349, 0, 0
+OFFSET[R], 351, -66, 0
 CALL[],1,16,21,79
 CALL[],199,22,20,8,17,80
 SHC[2],1
@@ -23541,8 +23494,8 @@ OFFSET[R], 93, 557, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],42,0,0
-OFFSET[R],143,198,156
+OFFSET[R], 42, 0, 0
+OFFSET[R], 143, 198, 156
 CALL[],1,7,39,79
 CALL[],138,40,38,2,13,80
 SHC[2],1
@@ -23553,8 +23506,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],74,0,0
-OFFSET[R],143,88,0
+OFFSET[R], 74, 0, 0
+OFFSET[R], 143, 88, 0
 CALL[],2,16,51,79
 CALL[],146,52,50,31,22,80
 SHC[2],2
@@ -23692,8 +23645,8 @@ CALL[], 24, 24, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],49,0,0
-OFFSET[R],67,189,156
+OFFSET[R], 49, 0, 0
+OFFSET[R], 67, 189, 156
 CALL[],1,8,20,79
 CALL[],87,21,19,7,16,80
 SHC[2],1
@@ -23704,8 +23657,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],81,0,0
-OFFSET[R],67,85,0
+OFFSET[R], 81, 0, 0
+OFFSET[R], 67, 85, 0
 CALL[],1,4,28,79
 CALL[],94,29,27,1,9,80
 SHC[2],1
@@ -23716,8 +23669,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],692,107,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 692, 107, 156
 CALL[],2,5,25,79
 CALL[],3,5,29,79
 CALL[],139,26,28,2,11,80
@@ -23730,8 +23683,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],692,32,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 692, 32, 0
 CALL[],2,15,49,79
 CALL[],3,15,53,79
 CALL[],44,50,52,10,19,80
@@ -23744,8 +23697,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],691,164,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 691, 164, 156
 CALL[],2,5,30,79
 CALL[],180,42,27,2,11,80
 SHC[2],2
@@ -23756,8 +23709,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],691,89,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 691, 89, 0
 CALL[],2,15,54,79
 CALL[],85,66,51,10,19,80
 SHC[2],2
@@ -23768,8 +23721,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],692,76,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 692, 76, 156
 CALL[],1,1,14,79
 CALL[],2,1,18,79
 CALL[],61,15,17,0,2,80
@@ -23782,8 +23735,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],692,23,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 692, 23, 0
 CALL[],2,24,56,79
 CALL[],3,24,60,79
 CALL[],47,57,59,19,29,80
@@ -23796,8 +23749,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],691,141,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 691, 141, 156
 CALL[],1,1,19,79
 CALL[],110,31,16,0,2,80
 SHC[2],1
@@ -23808,8 +23761,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],691,80,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 691, 80, 0
 CALL[],2,24,61,79
 CALL[],88,73,58,19,29,80
 SHC[2],2
@@ -23820,8 +23773,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],692,-79,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 692, -79, 156
 CALL[],1,0,6,79
 CALL[],2,0,10,79
 CALL[],62,7,9,3,1,80
@@ -23834,8 +23787,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],692,-123,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 692, -123, 0
 CALL[],1,2,6,79
 CALL[],2,2,10,79
 CALL[],45,7,9,1,3,80
@@ -23848,8 +23801,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],691,-22,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 691, -22, 156
 CALL[],1,0,11,79
 CALL[],103,23,8,3,1,80
 SHC[2],1
@@ -23860,8 +23813,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],268,0,0
-OFFSET[R],691,-66,0
+OFFSET[R], 268, 0, 0
+OFFSET[R], 691, -66, 0
 CALL[],1,2,11,79
 CALL[],86,23,8,1,3,80
 SHC[2],1
@@ -23872,8 +23825,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],692,157,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 692, 157, 156
 CALL[],2,0,38,79
 CALL[],3,0,42,79
 CALL[],60,39,41,14,4,80
@@ -23886,8 +23839,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],692,28,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 692, 28, 0
 CALL[],2,7,34,79
 CALL[],3,7,38,79
 CALL[],44,35,37,2,10,80
@@ -23900,8 +23853,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],691,215,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 691, 215, 156
 CALL[],2,0,43,79
 CALL[],102,55,40,14,4,80
 SHC[2],2
@@ -23912,8 +23865,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],691,85,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 691, 85, 0
 CALL[],2,7,39,79
 CALL[],85,51,36,2,10,80
 SHC[2],2
@@ -23924,8 +23877,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],53,0,0
-OFFSET[R],692,71,156
+OFFSET[R], 53, 0, 0
+OFFSET[R], 692, 71, 156
 CALL[],2,0,41,79
 CALL[],3,0,45,79
 CALL[],52,42,44,23,2,80
@@ -23938,8 +23891,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],85,0,0
-OFFSET[R],692,-26,0
+OFFSET[R], 85, 0, 0
+OFFSET[R], 692, -26, 0
 CALL[],1,0,20,79
 CALL[],2,0,24,79
 CALL[],52,21,23,14,5,80
@@ -23952,8 +23905,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],53,0,0
-OFFSET[R],691,128,156
+OFFSET[R], 53, 0, 0
+OFFSET[R], 691, 128, 156
 CALL[],2,0,46,79
 CALL[],93,58,43,23,2,80
 SHC[2],2
@@ -23964,8 +23917,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],85,0,0
-OFFSET[R],691,30,0
+OFFSET[R], 85, 0, 0
+OFFSET[R], 691, 30, 0
 CALL[],1,0,25,79
 CALL[],92,37,22,14,5,80
 SHC[2],1
@@ -23976,8 +23929,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],692,116,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 692, 116, 156
 CALL[],1,9,32,79
 CALL[],2,9,36,79
 CALL[],28,33,35,4,24,80
@@ -23990,8 +23943,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],692,20,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 692, 20, 0
 CALL[],1,9,45,79
 CALL[],2,9,49,79
 CALL[],21,46,48,4,27,80
@@ -24004,8 +23957,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],56,0,0
-OFFSET[R],691,173,156
+OFFSET[R], 56, 0, 0
+OFFSET[R], 691, 173, 156
 CALL[],1,9,37,79
 CALL[],69,49,34,4,24,80
 SHC[2],1
@@ -24016,8 +23969,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],691,77,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 691, 77, 0
 CALL[],1,9,50,79
 CALL[],62,62,47,4,27,80
 SHC[2],1
@@ -24028,8 +23981,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],55,0,0
-OFFSET[R],467,149,0
+OFFSET[R], 55, 0, 0
+OFFSET[R], 467, 149, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-214,16,8,6,0,80
 SHC[2],1
@@ -24040,8 +23993,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],87,0,0
-OFFSET[R],467,110,0
+OFFSET[R], 87, 0, 0
+OFFSET[R], 467, 110, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-108,32,24,2,9,80
 SHC[2],1
@@ -24164,8 +24117,8 @@ CALL[], 47, -40, 12, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],43,0,0
-OFFSET[R],351,186,156
+OFFSET[R], 43, 0, 0
+OFFSET[R], 351, 186, 156
 CALL[],1,6,15,79
 CALL[],121,16,14,5,11,80
 SHC[2],1
@@ -24176,8 +24129,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],75,0,0
-OFFSET[R],702,-8,0
+OFFSET[R], 75, 0, 0
+OFFSET[R], 702, -8, 0
 CALL[],1,2,32,79
 CALL[],68,27,31,0,10,80
 SHC[2],1
@@ -24523,8 +24476,8 @@ CALL[], 27, 32, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],354,189,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 354, 189, 156
 CALL[],2,5,23,79
 CALL[],195,25,31,2,11,80
 SHC[2],2
@@ -24535,8 +24488,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],354,114,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 354, 114, 0
 CALL[],2,15,47,79
 CALL[],99,49,55,10,19,80
 SHC[2],2
@@ -24681,8 +24634,8 @@ CALL[], 51, -40, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],694,217,160
+OFFSET[R], 50, 0, 0
+OFFSET[R], 694, 217, 160
 CALL[],2,0,36,79
 CALL[],3,0,48,79
 CALL[],4,0,62,79
@@ -24697,8 +24650,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],694,87,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 694, 87, 0
 CALL[],2,7,32,79
 CALL[],3,7,44,79
 CALL[],4,7,58,79
@@ -24713,8 +24666,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],699,219,160
+OFFSET[R], 50, 0, 0
+OFFSET[R], 699, 219, 160
 CALL[],2,0,55,79
 CALL[],3,0,64,79
 CALL[],113,56,63,14,4,80
@@ -24727,8 +24680,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],699,89,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 699, 89, 0
 CALL[],2,7,51,79
 CALL[],3,7,60,79
 CALL[],96,52,59,2,10,80
@@ -24741,8 +24694,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],354,244,173
+OFFSET[R], 50, 0, 0
+OFFSET[R], 354, 244, 173
 CALL[],2,0,36,79
 CALL[],120,38,44,14,4,80
 SHC[2],2
@@ -24753,8 +24706,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],354,110,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 354, 110, 0
 CALL[],2,7,32,79
 CALL[],99,34,40,2,10,80
 SHC[2],2
@@ -24765,8 +24718,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],695,218,160
+OFFSET[R], 50, 0, 0
+OFFSET[R], 695, 218, 160
 CALL[],2,0,36,79
 CALL[],3,0,50,79
 CALL[],140,51,49,14,4,80
@@ -24779,8 +24732,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],695,88,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 695, 88, 0
 CALL[],2,7,32,79
 CALL[],3,7,46,79
 CALL[],123,47,45,2,10,80
@@ -24793,8 +24746,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],138,129,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 138, 129, 156
 CALL[],1,4,19,79
 CALL[],32,20,18,4,12,80
 SHC[2],1
@@ -24805,8 +24758,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],138,31,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 138, 31, 0
 CALL[],1,5,37,79
 CALL[],126,38,36,19,6,80
 SHC[2],1
@@ -25953,7 +25906,7 @@ CALL[], 39, -48, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],942,0,0
+OFFSET[R], 942, 0, 0
 
     </glyphProgram>
 
@@ -26749,7 +26702,7 @@ CALL[], 25, 24, 14, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],138,0,0
+OFFSET[R], 138, 0, 0
 
     </glyphProgram>
 
@@ -26804,7 +26757,7 @@ CALL[], 7, -16, 17, 18, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],144,0,0
+OFFSET[R], 144, 0, 0
 
     </glyphProgram>
 
@@ -26812,8 +26765,8 @@ OFFSET[R],144,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],67,128,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 67, 128, 156
 CALL[],1,1,14,79
 CALL[],87,15,13,0,2,80
 SHC[2],1
@@ -26824,8 +26777,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],730,0,0
-OFFSET[R],67,192,156
+OFFSET[R], 730, 0, 0
+OFFSET[R], 67, 192, 156
 CALL[],1,1,20,79
 CALL[],88,21,19,0,9,80
 SHC[2],1
@@ -26836,8 +26789,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],67,76,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 67, 76, 0
 CALL[],2,24,56,79
 CALL[],74,57,55,19,29,80
 SHC[2],2
@@ -26848,8 +26801,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],67,73,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 67, 73, 0
 CALL[],1,9,45,79
 CALL[],48,46,44,4,27,80
 SHC[2],1
@@ -29585,7 +29538,7 @@ CALL[], 19, -40, 9, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],162,0,0
+OFFSET[R], 162, 0, 0
 
     </glyphProgram>
 
@@ -29593,7 +29546,7 @@ OFFSET[R],162,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],194,0,0
+OFFSET[R], 194, 0, 0
 
     </glyphProgram>
 
@@ -29744,7 +29697,7 @@ CALL[], 56, 16, 11, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
+OFFSET[R], 60, 0, 0
 
     </glyphProgram>
 
@@ -30507,7 +30460,7 @@ CALL[], 16, 32, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],75,0,0
+OFFSET[R], 75, 0, 0
 
     </glyphProgram>
 
@@ -30782,7 +30735,7 @@ CALL[], 58, 16, 13, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
+OFFSET[R], 44, 0, 0
 
     </glyphProgram>
 
@@ -30790,8 +30743,8 @@ OFFSET[R],44,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],728,0,0
-OFFSET[R],931,269,156
+OFFSET[R], 728, 0, 0
+OFFSET[R], 931, 269, 156
 CALL[],1,0,38,79
 CALL[],120,41,51,32,9,80
 SHC[2],1
@@ -30802,8 +30755,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],760,0,0
-OFFSET[R],931,232,0
+OFFSET[R], 760, 0, 0
+OFFSET[R], 931, 232, 0
 CALL[],1,5,82,79
 CALL[],101,85,95,50,9,80
 SHC[2],1
@@ -31686,8 +31639,8 @@ IUP[Y]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],931,166,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 931, 166, 156
 CALL[],2,5,23,79
 CALL[],197,26,36,2,11,80
 SHC[2],2
@@ -31698,8 +31651,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],931,91,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 931, 91, 0
 CALL[],2,15,47,79
 CALL[],102,50,60,10,19,80
 SHC[2],2
@@ -31710,8 +31663,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],131,167,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 131, 167, 156
 CALL[],2,5,23,79
 CALL[],3,5,35,79
 CALL[],196,25,43,2,11,80
@@ -31724,8 +31677,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],68,0,0
-OFFSET[R],131,91,0
+OFFSET[R], 68, 0, 0
+OFFSET[R], 131, 91, 0
 CALL[],2,15,47,79
 CALL[],3,15,59,79
 CALL[],99,49,67,10,19,80
@@ -31738,7 +31691,7 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],161,0,0
+OFFSET[R], 161, 0, 0
 
     </glyphProgram>
 
@@ -31746,7 +31699,7 @@ OFFSET[R],161,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],193,0,0
+OFFSET[R], 193, 0, 0
 
     </glyphProgram>
 
@@ -31754,8 +31707,8 @@ OFFSET[R],193,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],40,0,0
-OFFSET[R],931,134,156
+OFFSET[R], 40, 0, 0
+OFFSET[R], 931, 134, 156
 CALL[],1,1,12,79
 CALL[],118,15,25,0,2,80
 SHC[2],1
@@ -31766,8 +31719,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],72,0,0
-OFFSET[R],931,81,0
+OFFSET[R], 72, 0, 0
+OFFSET[R], 931, 81, 0
 CALL[],2,24,54,79
 CALL[],104,57,67,19,29,80
 SHC[2],2
@@ -31778,7 +31731,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],503,0,0
+OFFSET[R], 503, 0, 0
 
     </glyphProgram>
 
@@ -31786,7 +31739,7 @@ OFFSET[R],503,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],580,0,0
+OFFSET[R], 580, 0, 0
 
     </glyphProgram>
 
@@ -31794,8 +31747,8 @@ OFFSET[R],580,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],503,0,0
-OFFSET[R],131,169,156
+OFFSET[R], 503, 0, 0
+OFFSET[R], 131, 169, 156
 CALL[],2,17,44,79
 CALL[],3,17,56,79
 CALL[],98,46,64,0,22,80
@@ -31808,8 +31761,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],580,0,0
-OFFSET[R],131,49,0
+OFFSET[R], 580, 0, 0
+OFFSET[R], 131, 49, 0
 CALL[],2,15,54,79
 CALL[],3,15,66,79
 CALL[],90,56,74,29,19,80
@@ -31822,8 +31775,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],728,0,0
-OFFSET[R],131,261,156
+OFFSET[R], 728, 0, 0
+OFFSET[R], 131, 261, 156
 CALL[],1,0,38,79
 CALL[],2,0,50,79
 CALL[],110,40,58,32,9,80
@@ -31836,8 +31789,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],760,0,0
-OFFSET[R],131,236,0
+OFFSET[R], 760, 0, 0
+OFFSET[R], 131, 236, 0
 CALL[],1,5,82,79
 CALL[],2,5,94,79
 CALL[],103,84,102,50,9,80
@@ -31850,8 +31803,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],729,0,0
-OFFSET[R],131,95,156
+OFFSET[R], 729, 0, 0
+OFFSET[R], 131, 95, 156
 CALL[],1,0,55,79
 CALL[],2,0,67,79
 CALL[],128,57,75,21,2,80
@@ -31864,8 +31817,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],761,0,0
-OFFSET[R],131,18,0
+OFFSET[R], 761, 0, 0
+OFFSET[R], 131, 18, 0
 CALL[],1,0,50,79
 CALL[],2,0,62,79
 CALL[],110,52,70,16,2,80
@@ -31878,7 +31831,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],542,0,0
+OFFSET[R], 542, 0, 0
 
     </glyphProgram>
 
@@ -31886,7 +31839,7 @@ OFFSET[R],542,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],690,0,0
+OFFSET[R], 690, 0, 0
 
     </glyphProgram>
 
@@ -31894,8 +31847,8 @@ OFFSET[R],690,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],730,0,0
-OFFSET[R],138,198,156
+OFFSET[R], 730, 0, 0
+OFFSET[R], 138, 198, 156
 CALL[],1,1,20,79
 CALL[],116,21,19,0,9,80
 SHC[2],1
@@ -31906,8 +31859,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],138,80,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 138, 80, 0
 CALL[],1,9,45,79
 CALL[],77,46,44,4,27,80
 SHC[2],1
@@ -31918,8 +31871,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],730,0,0
-OFFSET[R],131,198,156
+OFFSET[R], 730, 0, 0
+OFFSET[R], 131, 198, 156
 CALL[],1,1,18,79
 CALL[],2,1,30,79
 CALL[],116,20,38,0,9,80
@@ -31932,8 +31885,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],131,79,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 131, 79, 0
 CALL[],1,9,43,79
 CALL[],2,9,55,79
 CALL[],77,45,63,4,27,80
@@ -31946,8 +31899,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],50,0,0
-OFFSET[R],131,217,156
+OFFSET[R], 50, 0, 0
+OFFSET[R], 131, 217, 156
 CALL[],2,0,36,79
 CALL[],3,0,48,79
 CALL[],116,38,56,14,4,80
@@ -31960,8 +31913,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],131,87,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 131, 87, 0
 CALL[],2,7,32,79
 CALL[],3,7,44,79
 CALL[],99,34,52,2,10,80
@@ -31974,7 +31927,7 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],518,0,0
+OFFSET[R], 518, 0, 0
 
     </glyphProgram>
 
@@ -32028,8 +31981,8 @@ CALL[], 38, 32, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],518,0,0
-OFFSET[R],131,217,156
+OFFSET[R], 518, 0, 0
+OFFSET[R], 131, 217, 156
 CALL[],3,0,43,79
 CALL[],4,0,55,79
 CALL[],116,45,63,14,4,80
@@ -32042,8 +31995,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],908,0,0
-OFFSET[R],131,87,0
+OFFSET[R], 908, 0, 0
+OFFSET[R], 131, 87, 0
 CALL[],3,7,39,79
 CALL[],4,7,51,79
 CALL[],99,41,59,2,10,80
@@ -32056,8 +32009,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],751,0,0
-OFFSET[R],131,66,156
+OFFSET[R], 751, 0, 0
+OFFSET[R], 131, 66, 156
 CALL[],1,0,44,79
 CALL[],2,0,56,79
 CALL[],82,46,64,15,4,80
@@ -32070,8 +32023,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],783,0,0
-OFFSET[R],131,-11,0
+OFFSET[R], 783, 0, 0
+OFFSET[R], 131, -11, 0
 CALL[],1,12,38,79
 CALL[],2,12,50,79
 CALL[],84,40,58,26,17,80
@@ -32084,8 +32037,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],741,0,0
-OFFSET[R],138,121,156
+OFFSET[R], 741, 0, 0
+OFFSET[R], 138, 121, 156
 CALL[],1,22,39,79
 CALL[],100,40,38,8,32,80
 SHC[2],1
@@ -32096,8 +32049,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],138,31,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 138, 31, 0
 CALL[],1,5,37,79
 CALL[],126,38,36,19,6,80
 SHC[2],1
@@ -32108,8 +32061,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],741,0,0
-OFFSET[R],131,121,156
+OFFSET[R], 741, 0, 0
+OFFSET[R], 131, 121, 156
 CALL[],1,22,37,79
 CALL[],2,22,49,79
 CALL[],101,39,57,8,32,80
@@ -32122,8 +32075,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],131,30,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 131, 30, 0
 CALL[],1,5,35,79
 CALL[],2,5,47,79
 CALL[],126,37,55,19,6,80
@@ -32136,8 +32089,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],741,0,0
-OFFSET[R],357,148,156
+OFFSET[R], 741, 0, 0
+OFFSET[R], 357, 148, 156
 CALL[],1,22,38,79
 CALL[],2,22,42,79
 CALL[],145,39,41,8,32,80
@@ -32150,8 +32103,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],357,57,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 357, 57, 0
 CALL[],1,5,36,79
 CALL[],2,5,40,79
 CALL[],170,37,39,19,6,80
@@ -32164,8 +32117,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],745,0,0
-OFFSET[R],131,138,156
+OFFSET[R], 745, 0, 0
+OFFSET[R], 131, 138, 156
 CALL[],1,14,29,79
 CALL[],2,14,41,79
 CALL[],61,31,49,9,26,80
@@ -32178,8 +32131,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],777,0,0
-OFFSET[R],131,41,0
+OFFSET[R], 777, 0, 0
+OFFSET[R], 131, 41, 0
 CALL[],1,0,26,79
 CALL[],2,0,38,79
 CALL[],58,28,46,20,12,80
@@ -32294,8 +32247,8 @@ CALL[], 51, 16, 17, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],749,0,0
-OFFSET[R],131,261,156
+OFFSET[R], 749, 0, 0
+OFFSET[R], 131, 261, 156
 CALL[],3,6,37,79
 CALL[],4,6,49,79
 CALL[],115,39,57,5,34,80
@@ -32308,8 +32261,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],781,0,0
-OFFSET[R],131,185,0
+OFFSET[R], 781, 0, 0
+OFFSET[R], 131, 185, 0
 CALL[],3,0,34,79
 CALL[],4,0,46,79
 CALL[],100,36,54,16,20,80
@@ -32322,8 +32275,8 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1180,95,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1180, 95, 0
 CALL[],2,22,65,79
 CALL[],101,49,59,17,26,80
 SHC[2],2
@@ -32334,8 +32287,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1236,91,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1236, 91, 0
 CALL[],2,22,49,79
 CALL[],89,53,66,17,26,80
 SHC[2],2
@@ -32346,8 +32299,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1193,100,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1193, 100, 0
 CALL[],2,22,65,79
 CALL[],3,22,68,79
 CALL[],94,49,67,17,26,80
@@ -32360,8 +32313,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1206,67,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1206, 67, 0
 CALL[],2,22,49,79
 CALL[],3,22,67,79
 CALL[],71,51,66,17,26,80
@@ -32374,8 +32327,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1194,130,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1194, 130, 0
 CALL[],2,22,50,79
 CALL[],3,22,69,79
 CALL[],131,53,49,17,26,80
@@ -32388,8 +32341,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1207,97,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1207, 97, 0
 CALL[],2,22,49,79
 CALL[],3,22,66,79
 CALL[],108,51,65,17,26,80
@@ -32402,8 +32355,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1195,91,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1195, 91, 0
 CALL[],2,22,56,79
 CALL[],3,22,87,79
 CALL[],120,66,53,17,26,80
@@ -32416,8 +32369,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1208,91,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1208, 91, 0
 CALL[],2,22,49,79
 CALL[],3,22,73,79
 CALL[],120,83,70,17,26,80
@@ -32430,8 +32383,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],1180,-92,-71
+OFFSET[R], 36, 0, 0
+OFFSET[R], 1180, -92, -71
 /* No vertical hints due to overlapping parts */
 CALL[],-65,23,33,2,11,80
 SHC[2],2
@@ -32442,8 +32395,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],1236,-107,-71
+OFFSET[R], 36, 0, 0
+OFFSET[R], 1236, -107, -71
 /* No vertical hints due to overlapping parts */
 CALL[],-88,27,40,2,11,80
 SHC[2],2
@@ -32490,8 +32443,8 @@ OFFSET[R], 36, 23, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1180,63,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1180, 63, 0
 CALL[],1,0,66,79
 CALL[],109,50,60,38,2,80
 SHC[2],1
@@ -32502,8 +32455,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1236,59,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1236, 59, 0
 CALL[],1,0,50,79
 CALL[],97,54,67,38,2,80
 SHC[2],1
@@ -32514,8 +32467,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1193,68,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1193, 68, 0
 CALL[],1,0,66,79
 CALL[],2,0,69,79
 CALL[],102,50,68,38,2,80
@@ -32528,8 +32481,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1206,35,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1206, 35, 0
 CALL[],1,0,50,79
 CALL[],2,0,68,79
 CALL[],79,52,67,38,2,80
@@ -32542,8 +32495,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1194,98,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1194, 98, 0
 CALL[],1,0,51,79
 CALL[],2,0,70,79
 CALL[],139,54,50,38,2,80
@@ -32556,8 +32509,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1207,65,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1207, 65, 0
 CALL[],1,0,50,79
 CALL[],2,0,67,79
 CALL[],116,52,66,38,2,80
@@ -32606,8 +32559,8 @@ OFFSET[R], 1207, -76, -71
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1180,92,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1180, 92, 0
 CALL[],1,5,42,79
 CALL[],122,26,37,1,11,80
 SHC[2],1
@@ -32618,8 +32571,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1236,88,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1236, 88, 0
 CALL[],1,6,26,79
 CALL[],109,31,43,1,11,80
 SHC[2],1
@@ -32630,8 +32583,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1193,97,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1193, 97, 0
 CALL[],1,6,42,79
 CALL[],2,6,45,79
 CALL[],115,26,44,1,11,80
@@ -32644,8 +32597,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1206,64,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1206, 64, 0
 CALL[],1,6,26,79
 CALL[],2,6,44,79
 CALL[],91,29,43,1,11,80
@@ -32658,8 +32611,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1194,127,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1194, 127, 0
 CALL[],1,6,46,79
 CALL[],2,6,27,79
 CALL[],151,30,26,1,11,80
@@ -32672,8 +32625,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1207,94,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1207, 94, 0
 CALL[],1,6,26,79
 CALL[],2,6,43,79
 CALL[],128,29,42,1,11,80
@@ -32686,8 +32639,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1195,88,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1195, 88, 0
 CALL[],1,6,64,79
 CALL[],141,43,31,1,11,80
 SHC[2],1
@@ -32699,8 +32652,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1208,88,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1208, 88, 0
 CALL[],1,6,26,79
 CALL[],141,60,48,1,11,80
 SHC[2],1
@@ -32760,8 +32713,8 @@ OFFSET[R], 1208, -121, -106
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1180,-63,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1180, -63, 0
 CALL[],1,14,32,79
 CALL[],86,16,26,9,15,80
 SHC[2],1
@@ -32772,8 +32725,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1236,-67,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1236, -67, 0
 CALL[],1,14,16,79
 CALL[],73,20,33,9,15,80
 SHC[2],1
@@ -32784,8 +32737,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1193,-58,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1193, -58, 0
 CALL[],1,14,33,79
 CALL[],2,14,36,79
 CALL[],79,16,35,9,15,80
@@ -32798,8 +32751,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1206,-91,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1206, -91, 0
 CALL[],1,14,16,79
 CALL[],2,14,34,79
 CALL[],55,18,33,9,15,80
@@ -32812,8 +32765,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1194,-28,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1194, -28, 0
 CALL[],1,14,17,79
 CALL[],2,14,37,79
 CALL[],115,20,16,9,15,80
@@ -32826,8 +32779,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1207,-61,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1207, -61, 0
 CALL[],1,14,16,79
 CALL[],2,14,33,79
 CALL[],92,18,32,9,15,80
@@ -32840,8 +32793,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1195,-67,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1195, -67, 0
 CALL[],1,14,23,79
 CALL[],2,14,54,79
 CALL[],105,33,20,9,15,80
@@ -32854,8 +32807,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1208,-67,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1208, -67, 0
 CALL[],1,14,16,79
 CALL[],2,14,40,79
 CALL[],105,50,37,9,15,80
@@ -32916,8 +32869,8 @@ OFFSET[R], 1208, -121, -106
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1180,91,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1180, 91, 0
 CALL[],2,7,48,79
 CALL[],101,32,42,2,10,80
 SHC[2],2
@@ -32928,8 +32881,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1236,87,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1236, 87, 0
 CALL[],2,7,32,79
 CALL[],89,36,49,2,10,80
 SHC[2],2
@@ -32940,8 +32893,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1193,96,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1193, 96, 0
 CALL[],2,7,49,79
 CALL[],3,7,52,79
 CALL[],94,32,51,2,10,80
@@ -32954,8 +32907,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1206,63,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1206, 63, 0
 CALL[],2,7,32,79
 CALL[],3,7,50,79
 CALL[],71,34,49,2,10,80
@@ -32968,8 +32921,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1194,126,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1194, 126, 0
 CALL[],2,7,33,79
 CALL[],3,7,53,79
 CALL[],131,36,32,2,10,80
@@ -32982,8 +32935,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1207,93,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1207, 93, 0
 CALL[],2,7,32,79
 CALL[],3,7,49,79
 CALL[],108,34,48,2,10,80
@@ -33032,8 +32985,8 @@ OFFSET[R], 1207, -75, -70
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1180,87,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1180, 87, 0
 CALL[],1,13,45,79
 CALL[],78,29,39,9,28,80
 SHC[2],1
@@ -33044,8 +32997,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1236,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1236, 83, 0
 CALL[],1,13,29,79
 CALL[],65,33,46,9,28,80
 SHC[2],1
@@ -33056,8 +33009,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1193,92,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1193, 92, 0
 CALL[],1,13,46,79
 CALL[],2,13,49,79
 CALL[],71,29,48,9,28,80
@@ -33070,8 +33023,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1206,59,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1206, 59, 0
 CALL[],1,13,29,79
 CALL[],2,13,47,79
 CALL[],47,31,46,9,28,80
@@ -33084,8 +33037,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1194,122,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1194, 122, 0
 CALL[],1,13,30,79
 CALL[],2,13,50,79
 CALL[],107,33,29,9,28,80
@@ -33098,8 +33051,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1207,89,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1207, 89, 0
 CALL[],1,13,29,79
 CALL[],2,13,46,79
 CALL[],84,31,45,9,28,80
@@ -33112,8 +33065,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1195,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1195, 83, 0
 CALL[],1,13,36,79
 CALL[],2,13,67,79
 CALL[],97,46,33,9,28,80
@@ -33126,8 +33079,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1208,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1208, 83, 0
 CALL[],1,13,29,79
 CALL[],2,13,53,79
 CALL[],97,63,50,9,28,80
@@ -33164,8 +33117,8 @@ OFFSET[R], 1208, -121, -106
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1180,222,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1180, 222, 0
 CALL[],1,14,76,79
 CALL[],109,60,72,10,56,80
 SHC[2],1
@@ -33176,8 +33129,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1236,218,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1236, 218, 0
 CALL[],1,14,60,79
 CALL[],97,66,77,10,56,80
 SHC[2],1
@@ -33188,8 +33141,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1193,227,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1193, 227, 0
 CALL[],1,14,76,79
 CALL[],2,14,79,79
 CALL[],102,60,78,10,56,80
@@ -33202,8 +33155,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1206,194,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1206, 194, 0
 CALL[],1,14,60,79
 CALL[],2,14,78,79
 CALL[],79,64,77,10,56,80
@@ -33216,8 +33169,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1194,257,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1194, 257, 0
 CALL[],1,14,61,79
 CALL[],2,14,80,79
 CALL[],139,64,60,10,56,80
@@ -33230,8 +33183,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1207,224,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1207, 224, 0
 CALL[],1,14,60,79
 CALL[],2,14,77,79
 CALL[],116,64,76,10,56,80
@@ -33244,8 +33197,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1195,219,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1195, 219, 0
 CALL[],1,14,98,79
 CALL[],129,77,66,10,56,80
 SHC[2],1
@@ -33257,8 +33210,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1208,218,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1208, 218, 0
 CALL[],1,14,60,79
 CALL[],128,94,83,10,56,80
 SHC[2],1
@@ -33318,8 +33271,8 @@ OFFSET[R], 955, 140, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1224,85,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1224, 85, 0
 CALL[],2,22,51,79
 CALL[],69,52,50,17,26,80
 SHC[2],2
@@ -33330,8 +33283,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1235,84,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1235, 84, 0
 CALL[],2,22,50,79
 CALL[],109,51,49,17,26,80
 SHC[2],2
@@ -33342,8 +33295,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1224,53,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1224, 53, 0
 CALL[],1,0,52,79
 CALL[],77,53,51,38,2,80
 SHC[2],1
@@ -33354,8 +33307,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],960,0,0
-OFFSET[R],1235,48,0
+OFFSET[R], 960, 0, 0
+OFFSET[R], 1235, 48, 0
 CALL[],1,0,51,79
 CALL[],113,52,50,38,2,80
 SHC[2],1
@@ -33366,8 +33319,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1224,82,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1224, 82, 0
 CALL[],1,6,28,79
 CALL[],89,29,27,1,11,80
 SHC[2],1
@@ -33378,8 +33331,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1235,81,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1235, 81, 0
 CALL[],1,6,27,79
 CALL[],130,28,26,1,11,80
 SHC[2],1
@@ -33390,8 +33343,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1224,-73,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1224, -73, 0
 CALL[],1,14,18,79
 CALL[],53,19,17,9,15,80
 SHC[2],1
@@ -33402,8 +33355,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1235,-74,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1235, -74, 0
 CALL[],1,14,17,79
 CALL[],94,18,16,9,15,80
 SHC[2],1
@@ -33414,8 +33367,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1224,81,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1224, 81, 0
 CALL[],2,7,34,79
 CALL[],69,35,33,2,10,80
 SHC[2],2
@@ -33426,8 +33379,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],82,0,0
-OFFSET[R],1235,80,0
+OFFSET[R], 82, 0, 0
+OFFSET[R], 1235, 80, 0
 CALL[],2,7,33,79
 CALL[],109,34,32,2,10,80
 SHC[2],2
@@ -33438,8 +33391,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1224,77,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1224, 77, 0
 CALL[],1,13,31,79
 CALL[],45,32,30,9,28,80
 SHC[2],1
@@ -33450,8 +33403,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1235,76,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1235, 76, 0
 CALL[],1,13,30,79
 CALL[],86,31,29,9,28,80
 SHC[2],1
@@ -33462,8 +33415,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1224,212,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1224, 212, 0
 CALL[],1,14,62,79
 CALL[],77,63,61,10,56,80
 SHC[2],1
@@ -33474,8 +33427,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1235,211,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1235, 211, 0
 CALL[],1,14,61,79
 CALL[],117,62,60,10,56,80
 SHC[2],1
@@ -33486,9 +33439,9 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1180,115,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1180, 115, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],40,78,59,17,26,80
 SHC[2],2
@@ -33500,9 +33453,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1236,91,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1236, 91, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],12,79,66,17,26,80
 SHC[2],2
@@ -33514,9 +33467,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1193,100,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1193, 100, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],67,83,68,17,26,80
 SHC[2],2
@@ -33529,9 +33482,9 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1206,67,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1206, 67, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],45,81,66,17,26,80
 SHC[2],2
@@ -33544,9 +33497,9 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1194,130,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1194, 130, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],89,83,49,17,26,80
 SHC[2],2
@@ -33559,9 +33512,9 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1207,97,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1207, 97, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],73,81,65,17,26,80
 SHC[2],2
@@ -33574,9 +33527,9 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1195,91,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1195, 91, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],64,100,53,17,26,80
 SHC[2],2
@@ -33589,9 +33542,9 @@ SHC[2],4
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1208,91,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1208, 91, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],64,100,70,17,26,80
 SHC[2],2
@@ -33611,9 +33564,9 @@ OFFSET[R], 964, 634, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],1180,-92,-71
-OFFSET[R],1179,185,0
+OFFSET[R], 36, 0, 0
+OFFSET[R], 1180, -92, -71
+OFFSET[R], 1179, 185, 0
 /* No vertical hints due to overlapping parts */
 /* No vertical hints due to overlapping parts */
 CALL[],-33,23,46,2,11,80
@@ -33633,9 +33586,9 @@ OFFSET[R], 964, 634, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],1236,-107,-71
-OFFSET[R],1179,185,0
+OFFSET[R], 36, 0, 0
+OFFSET[R], 1236, -107, -71
+OFFSET[R], 1179, 185, 0
 /* No vertical hints due to overlapping parts */
 /* No vertical hints due to overlapping parts */
 CALL[],-33,27,47,2,11,80
@@ -33732,9 +33685,9 @@ OFFSET[R], 1179, 208, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1180,92,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1180, 92, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,59,43,1,0,80
 SHC[2],1
@@ -33746,9 +33699,9 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1236,88,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1236, 88, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,60,44,1,0,80
 SHC[2],1
@@ -33760,9 +33713,9 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1193,97,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1193, 97, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,63,47,1,0,80
 SHC[2],1
@@ -33775,9 +33728,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1206,64,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1206, 64, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,62,46,1,0,80
 SHC[2],1
@@ -33790,9 +33743,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1194,127,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1194, 127, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,63,47,1,0,80
 SHC[2],1
@@ -33805,9 +33758,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1207,94,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1207, 94, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,62,46,1,0,80
 SHC[2],1
@@ -33820,9 +33773,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1195,88,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1195, 88, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,81,65,1,0,80
 SHC[2],1
@@ -33835,9 +33788,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1208,88,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1208, 88, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,81,65,1,0,80
 SHC[2],1
@@ -33962,9 +33915,9 @@ OFFSET[R], 1179, 384, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1179,278,0
-OFFSET[R],1180,222,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1179, 278, 0
+OFFSET[R], 1180, 222, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-104,76,60,29,30,80
 SHC[2],1
@@ -33977,9 +33930,9 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1236,218,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1236, 218, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-104,94,78,29,30,80
 SHC[2],2
@@ -33992,9 +33945,9 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1193,227,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1193, 227, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-104,97,81,29,30,80
 SHC[2],1
@@ -34007,9 +33960,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1206,194,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1206, 194, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-104,96,80,29,30,80
 SHC[2],1
@@ -34022,9 +33975,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1194,257,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1194, 257, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-104,97,81,29,30,80
 SHC[2],1
@@ -34037,9 +33990,9 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1207,224,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1207, 224, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-104,96,80,29,30,80
 SHC[2],1
@@ -34051,7 +34004,7 @@ SHC[2],3
     <glyphProgram name="uni1FA6">
 USEMYMETRICS[]
 OFFSET[R], 980, 0, 0
-OFFSET[R], 1195,219,0
+OFFSET[R], 1195, 219, 0
 OFFSET[R], 1179, 278, 0
 
 CALL[],-104,115,99,29,30,80
@@ -34064,7 +34017,7 @@ SHC[2],3
     <glyphProgram name="uni1FA7">
 USEMYMETRICS[]
 OFFSET[R], 980, 0, 0
-OFFSET[R], 1208,218,0
+OFFSET[R], 1208, 218, 0
 OFFSET[R], 1179, 278, 0
 
 CALL[],-104,115,99,29,30,80
@@ -34190,8 +34143,8 @@ OFFSET[R], 1179, 382, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],353,91,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 353, 91, 0
 CALL[],2,22,49,79
 CALL[],117,53,68,17,26,80
 SHC[2],2
@@ -34202,8 +34155,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],138,92,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 138, 92, 0
 CALL[],2,22,51,79
 CALL[],100,52,50,17,26,80
 SHC[2],2
@@ -34214,9 +34167,9 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1224,85,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1224, 85, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],26,65,50,17,26,80
 SHC[2],2
@@ -34228,8 +34181,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-49,61,55,17,26,80
 SHC[2],2
@@ -34240,9 +34193,9 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1235,84,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1235, 84, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],47,65,49,17,26,80
 SHC[2],2
@@ -34254,8 +34207,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1181,89,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1181, 89, 0
 CALL[],2,22,56,79
 CALL[],85,68,53,17,26,80
 SHC[2],2
@@ -34266,9 +34219,9 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],956,0,0
-OFFSET[R],1181,89,0
-OFFSET[R],1179,148,0
+OFFSET[R], 956, 0, 0
+OFFSET[R], 1181, 89, 0
+OFFSET[R], 1179, 148, 0
 /* No vertical hints due to overlapping parts */
 CALL[],48,83,53,17,26,80
 SHC[2],2
@@ -34280,8 +34233,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],353,166,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 353, 166, 156
 CALL[],2,5,23,79
 CALL[],190,27,42,2,11,80
 SHC[2],2
@@ -34292,8 +34245,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],138,167,156
+OFFSET[R], 36, 0, 0
+OFFSET[R], 138, 167, 156
 CALL[],2,5,25,79
 CALL[],195,26,24,2,11,80
 SHC[2],2
@@ -34310,8 +34263,8 @@ OFFSET[R], 67, -110, -70
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],143,-120,-70
+OFFSET[R], 36, 0, 0
+OFFSET[R], 143, -120, -70
 /* No vertical hints due to overlapping parts */
 CALL[],-74,25,23,2,11,80
 SHC[2],2
@@ -34328,8 +34281,8 @@ OFFSET[R], 964, 634, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],36,0,0
-OFFSET[R],1179,185,0
+OFFSET[R], 36, 0, 0
+OFFSET[R], 1179, 185, 0
 /* No vertical hints due to overlapping parts */
 CALL[],8,35,29,2,11,80
 SHC[2],2
@@ -34340,7 +34293,7 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],1180,0,0
+OFFSET[R], 1180, 0, 0
 
     </glyphProgram>
 
@@ -34463,9 +34416,9 @@ CALL[], 3, -32, 22, 23, 0, 76
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1224,82,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1224, 82, 0
+OFFSET[R], 1179, -8, 0
 
 CALL[],-10,46,30,1,0,80
 SHC[2],1
@@ -34477,8 +34430,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,42,26,1,0,80
 SHC[2],1
@@ -34489,9 +34442,9 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1235,96,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1235, 96, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-10,46,30,1,0,80
 SHC[2],1
@@ -34503,8 +34456,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1181,86,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1181, 86, 0
 CALL[],1,6,45,79
 CALL[],56,45,33,1,11,80
 SHC[2],1
@@ -34515,9 +34468,9 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],962,0,0
-OFFSET[R],1181,86,0
-OFFSET[R],1179,-8,0
+OFFSET[R], 962, 0, 0
+OFFSET[R], 1181, 86, 0
+OFFSET[R], 1179, -8, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-7,64,48,1,0,80
 SHC[2],2
@@ -34559,8 +34512,8 @@ OFFSET[R], 964, 685, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],43,0,0
-OFFSET[R],1179,205,0
+OFFSET[R], 43, 0, 0
+OFFSET[R], 1179, 205, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-72,24,18,5,11,80
 SHC[2],1
@@ -34665,8 +34618,8 @@ CALL[], 3, -40, 23, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],353,-68,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 353, -68, 0
 CALL[],1,14,16,79
 CALL[],100,20,35,9,15,80
 SHC[2],1
@@ -34677,8 +34630,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],138,-67,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 138, -67, 0
 CALL[],1,14,18,79
 CALL[],83,19,17,9,15,80
 SHC[2],1
@@ -34689,8 +34642,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1222,-68,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1222, -68, 0
 CALL[],1,14,16,79
 CALL[],2,14,28,79
 CALL[],3,14,42,79
@@ -34705,8 +34658,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1003,-68,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1003, -68, 0
 CALL[],1,14,16,79
 CALL[],2,14,28,79
 CALL[],3,14,41,79
@@ -34721,8 +34674,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1181,-70,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1181, -70, 0
 CALL[],1,14,23,79
 CALL[],68,35,20,9,15,80
 SHC[2],1
@@ -34733,8 +34686,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],964,0,0
-OFFSET[R],1182,-67,0
+OFFSET[R], 964, 0, 0
+OFFSET[R], 1182, -67, 0
 CALL[],1,14,23,79
 CALL[],2,14,38,79
 CALL[],3,14,50,79
@@ -34749,8 +34702,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],353,-20,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 353, -20, 156
 CALL[],1,0,4,79
 CALL[],135,8,23,3,1,80
 SHC[2],1
@@ -34761,8 +34714,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],44,0,0
-OFFSET[R],138,-19,156
+OFFSET[R], 44, 0, 0
+OFFSET[R], 138, -19, 156
 CALL[],1,0,6,79
 CALL[],118,7,5,3,1,80
 SHC[2],1
@@ -34871,8 +34824,8 @@ CALL[], 20, -8, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],353,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 353, 83, 0
 CALL[],1,13,29,79
 CALL[],93,33,48,9,28,80
 SHC[2],1
@@ -34883,8 +34836,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],138,84,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 138, 84, 0
 CALL[],1,13,31,79
 CALL[],76,32,30,9,28,80
 SHC[2],1
@@ -34895,8 +34848,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1222,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1222, 83, 0
 CALL[],1,13,29,79
 CALL[],2,13,41,79
 CALL[],3,13,55,79
@@ -34911,8 +34864,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1003,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1003, 83, 0
 CALL[],1,13,29,79
 CALL[],2,13,41,79
 CALL[],3,13,54,79
@@ -34927,8 +34880,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],972,0,0
-OFFSET[R],1180,88,0
+OFFSET[R], 972, 0, 0
+OFFSET[R], 1180, 88, 0
 CALL[],2,10,52,79
 CALL[],142,36,46,5,15,80
 SHC[2],2
@@ -34939,8 +34892,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],972,0,0
-OFFSET[R],1236,84,0
+OFFSET[R], 972, 0, 0
+OFFSET[R], 1236, 84, 0
 CALL[],2,10,36,79
 CALL[],129,40,53,5,15,80
 SHC[2],2
@@ -34951,8 +34904,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1181,81,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1181, 81, 0
 CALL[],1,13,36,79
 CALL[],61,48,33,9,28,80
 SHC[2],1
@@ -34963,8 +34916,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1182,84,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1182, 84, 0
 CALL[],1,13,36,79
 CALL[],2,13,51,79
 CALL[],3,13,63,79
@@ -34979,8 +34932,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],353,127,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 353, 127, 156
 CALL[],1,4,17,79
 CALL[],48,21,36,4,12,80
 SHC[2],1
@@ -34991,8 +34944,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],60,0,0
-OFFSET[R],138,129,156
+OFFSET[R], 60, 0, 0
+OFFSET[R], 138, 129, 156
 CALL[],1,4,19,79
 CALL[],32,20,18,4,12,80
 SHC[2],1
@@ -35048,7 +35001,7 @@ DLTP1[(24 @9 -1)]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],1003,0,0
+OFFSET[R], 1003, 0, 0
 
     </glyphProgram>
 
@@ -35075,9 +35028,9 @@ CALL[], 2, 32, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1224,212,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1224, 212, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],35,76,61,8,54,80
 SHC[2],1
@@ -35089,8 +35042,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-38,72,66,8,54,80
 SHC[2],1
@@ -35101,9 +35054,9 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1235,211,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1235, 211, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],56,76,60,8,54,80
 SHC[2],1
@@ -35115,8 +35068,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1181,216,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1181, 216, 0
 CALL[],1,14,67,79
 CALL[],93,79,64,8,54,80
 SHC[2],1
@@ -35127,9 +35080,9 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],980,0,0
-OFFSET[R],1181,216,0
-OFFSET[R],1179,278,0
+OFFSET[R], 980, 0, 0
+OFFSET[R], 1181, 216, 0
+OFFSET[R], 1179, 278, 0
 /* No vertical hints due to overlapping parts */
 CALL[],58,94,64,8,54,80
 SHC[2],1
@@ -35171,8 +35124,8 @@ OFFSET[R], 964, 765, 0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],955,0,0
-OFFSET[R],1179,242,0
+OFFSET[R], 955, 0, 0
+OFFSET[R], 1179, 242, 0
 /* No vertical hints due to overlapping parts */
 CALL[],-35,54,48,32,4,80
 SHC[2],1
@@ -35488,7 +35441,7 @@ DLTP1[(16 @6 -4)(16 @7 -4)]
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],955,0,0
+OFFSET[R], 955, 0, 0
 
     </glyphProgram>
 
@@ -35496,12 +35449,11 @@ OFFSET[R],955,0,0
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],367,0,0
+OFFSET[R], 367, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="uni2219">
-USEMYMETRICS[]
 OFFSET[R], 17, 57, 240
 
     </glyphProgram>
@@ -35520,11 +35472,11 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="uniEFFD">
-OFFSET[R], 368, -74, -313
-OFFSET[R], 17, 359, 0
-OFFSET[R], 373, 529, -313
-OFFSET[R], 368, 888, -313
-OFFSET[R], 368, 1247, -313
+OFFSET[R], 20, 0, 0
+OFFSET[R], 17, 564, 0
+OFFSET[R], 19, 810, 0
+OFFSET[R], 19, 1374, 0
+OFFSET[R], 19, 1938, 0
 
     </glyphProgram>
 
@@ -36040,8 +35992,8 @@ CALL[], 24, 32, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],131,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 131, 83, 0
 CALL[],1,13,29,79
 CALL[],2,13,41,79
 CALL[],76,31,49,9,28,80
@@ -36054,8 +36006,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1003,83,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1003, 83, 0
 CALL[],1,13,29,79
 CALL[],2,13,41,79
 CALL[],3,13,54,79
@@ -36070,8 +36022,8 @@ SHC[2],3
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],976,0,0
-OFFSET[R],1001,50,0
+OFFSET[R], 976, 0, 0
+OFFSET[R], 1001, 50, 0
 CALL[],1,13,30,79
 CALL[],86,31,29,9,28,80
 SHC[2],1
@@ -36082,8 +36034,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],355,86,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 355, 86, 0
 /* No vertical hints due to negative contours in the composite parts */
 CALL[],63,52,43,4,27,80
 SHC[2],1
@@ -36095,8 +36047,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],88,0,0
-OFFSET[R],117,78,0
+OFFSET[R], 88, 0, 0
+OFFSET[R], 117, 78, 0
 CALL[],1,9,62,79
 CALL[],77,63,50,4,27,80
 SHC[2],1
@@ -36296,8 +36248,8 @@ CALL[], 40, -16, 15, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],90,0,0
-OFFSET[R],143,188,0
+OFFSET[R], 90, 0, 0
+OFFSET[R], 143, 188, 0
 CALL[],1,5,42,79
 CALL[],46,43,41,24,6,80
 SHC[2],1
@@ -36308,8 +36260,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],90,0,0
-OFFSET[R],105,188,0
+OFFSET[R], 90, 0, 0
+OFFSET[R], 105, 188, 0
 CALL[],1,5,46,79
 CALL[],24,43,45,24,6,80
 SHC[2],1
@@ -36320,8 +36272,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],90,0,0
-OFFSET[R],131,195,0
+OFFSET[R], 90, 0, 0
+OFFSET[R], 131, 195, 0
 CALL[],1,5,41,79
 CALL[],2,5,53,79
 CALL[],37,43,61,24,6,80
@@ -36334,8 +36286,8 @@ SHC[2],2
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],90,0,0
-OFFSET[R],67,189,0
+OFFSET[R], 90, 0, 0
+OFFSET[R], 67, 189, 0
 CALL[],1,5,43,79
 CALL[],8,44,42,24,6,80
 SHC[2],1
@@ -36534,8 +36486,8 @@ CALL[], 33, 16, 18, 1, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],143,23,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 143, 23, 0
 CALL[],1,5,36,79
 CALL[],135,37,35,19,6,80
 SHC[2],1
@@ -36546,8 +36498,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],105,23,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 105, 23, 0
 CALL[],1,5,40,79
 CALL[],113,37,39,19,6,80
 SHC[2],1
@@ -36558,8 +36510,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],131,30,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 131, 30, 0
 CALL[],1,5,35,79
 CALL[],2,5,47,79
 CALL[],126,37,55,19,6,80
@@ -36650,8 +36602,8 @@ CALL[], 28, -16, 16, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],92,0,0
-OFFSET[R],67,24,0
+OFFSET[R], 92, 0, 0
+OFFSET[R], 67, 24, 0
 CALL[],1,5,37,79
 CALL[],97,38,36,19,6,80
 SHC[2],1
@@ -36706,8 +36658,8 @@ CALL[], 4, -8, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],93,0,0
-OFFSET[R],143,24,0
+OFFSET[R], 93, 0, 0
+OFFSET[R], 143, 24, 0
 CALL[],1,16,19,79
 CALL[],104,20,18,8,17,80
 SHC[2],1
@@ -36718,8 +36670,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],93,0,0
-OFFSET[R],351,31,0
+OFFSET[R], 93, 0, 0
+OFFSET[R], 351, 31, 0
 CALL[],1,16,21,79
 CALL[],101,22,20,8,17,80
 SHC[2],1
@@ -36730,8 +36682,8 @@ SHC[2],1
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],93,0,0
-OFFSET[R],354,54,0
+OFFSET[R], 93, 0, 0
+OFFSET[R], 354, 54, 0
 CALL[],1,16,18,79
 CALL[],94,20,26,8,17,80
 SHC[2],1
@@ -36788,24 +36740,21 @@ CALL[], 36, 40, 18, 0, 77
 /* Composite glyph autohinted */
 
 USEMYMETRICS[]
-OFFSET[R],19,0,0
+OFFSET[R], 19, 0, 0
 
     </glyphProgram>
 
     <glyphProgram name="zero.sinf">
-USEMYMETRICS[]
 OFFSET[R], 368, -101, -433
 
     </glyphProgram>
 
     <glyphProgram name="zero.sups">
-USEMYMETRICS[]
 OFFSET[R], 368, 29, 120
 
     </glyphProgram>
 
     <glyphProgram name="zeroinferior">
-USEMYMETRICS[]
 OFFSET[R], 368, -74, -313
 
     </glyphProgram>
