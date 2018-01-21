@@ -35800,6 +35800,10 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="uniEFFD">
+OFFSET[R], 433, -150, 0
+OFFSET[R], 432, 150, 0
+OFFSET[R], 442, -150, 0
+OFFSET[R], 442, 150, 0
 /* VTT 4.2 compiler */
 SVTCA[Y]
 MDAP[R], 25

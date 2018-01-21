@@ -33994,11 +33994,11 @@ IUP[Y]
     </glyphProgram>
 
     <glyphProgram name="uniEFFD">
-OFFSET[R], 368, -72, -307
+OFFSET[R], 376, 0, 0
 OFFSET[R], 17, 363, 0
-OFFSET[R], 373, 554, -307
-OFFSET[R], 368, 917, -307
-OFFSET[R], 368, 1280, -307
+OFFSET[R], 375, 628, 0
+OFFSET[R], 375, 991, 0
+OFFSET[R], 375, 1354, 0
 
     </glyphProgram>
 
