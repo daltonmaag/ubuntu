@@ -67,7 +67,7 @@
 		<array>
 		</array>
 		<key>openTypeNameVersion</key>
-		<string>Version 0.80</string>
+		<string>Version 0.830 UFO Source</string>
 		<key>openTypeOS2CodePageRanges</key>
 		<array>
 			<integer>0</integer>
@@ -227,7 +227,7 @@
 		<key>versionMajor</key>
 		<integer>0</integer>
 		<key>versionMinor</key>
-		<integer>800</integer>
+		<integer>830</integer>
 		<key>xHeight</key>
 		<integer>520</integer>
 		<key>year</key>
