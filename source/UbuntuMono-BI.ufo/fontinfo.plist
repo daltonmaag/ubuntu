@@ -194,7 +194,7 @@
 		<array>
 		</array>
 		<key>postscriptFontName</key>
-		<string>UbuntuMonospaced-BoldItalic</string>
+		<string>UbuntuMono-BoldItalic</string>
 		<key>postscriptForceBold</key>
 		<false/>
 		<key>postscriptFullName</key>

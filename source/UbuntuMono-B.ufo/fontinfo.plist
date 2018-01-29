@@ -186,7 +186,7 @@
 		<array>
 		</array>
 		<key>postscriptFontName</key>
-		<string>UbuntuMonospaced-Bold</string>
+		<string>UbuntuMono-Bold</string>
 		<key>postscriptForceBold</key>
 		<false/>
 		<key>postscriptFullName</key>
