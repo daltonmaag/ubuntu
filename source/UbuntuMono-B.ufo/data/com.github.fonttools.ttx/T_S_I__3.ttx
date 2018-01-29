@@ -16888,52 +16888,6 @@ Smooth()
 
     </glyphProgram>
 
-    <glyphProgram name="uniEFFD">
-/* Y direction */
-YAnchor(25,185)
-YLink(25,18,144,&gt;=)
-YAnchor(36,7)
-YLink(36,3,144,&gt;=)
-YDist(3,0,&lt;)
-YIPAnchor(3,12,18)
-YLink(12,9,144,&gt;=)
-YDelta(9,-1@27)
-YBDelta(9,-1@26)
-YAnchor(42,185)
-YLink(42,54,144,&gt;=)
-YAnchor(48,7)
-YLink(48,60,144,&gt;=)
-YIPAnchor(60,72,54)
-YLink(72,66,130,&gt;=)
-YAnchor(78,7)
-YLink(78,84,73,&gt;=)
-
-/* X direction */
-XDist(87,39,&lt;)
-XLink(39,57,130,&gt;=)
-XDist(57,69,&lt;)
-XIPAnchor(87,51,15,6,88)
-XDelta(15,1@21..24)
-XInterpolate(87,63,51)
-XInterpolate(6,30,88)
-XLink(51,45,130,&gt;=)
-XDelta(45,-1@9..11;15;26..28)
-XDist(45,81,&gt;=)
-XDelta(81,-1@9..22)
-XLink(81,75,69,&gt;=)
-XDist(75,38,&gt;=)
-XDelta(38,-1@11..14;16)
-XDist(38,22,&lt;)
-XDist(22,11,&gt;=)
-XLink(15,28,130,&gt;=)
-XDelta(28,1@25)
-XLink(6,33,130,&gt;=)
-XDelta(33,1@25)
-
-Smooth()
-
-    </glyphProgram>
-
     <glyphProgram name="uniF000">
 /* Y direction */
 YAnchor(10,2)

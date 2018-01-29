@@ -31695,15 +31695,6 @@ IUP[Y]
 
     </glyphProgram>
 
-    <glyphProgram name="uniEFFD">
-OFFSET[R], 368, 0, -313
-OFFSET[R], 17, 359, 0
-OFFSET[R], 373, 605, -313
-OFFSET[R], 368, 964, -313
-OFFSET[R], 368, 1323, -313
-
-    </glyphProgram>
-
     <glyphProgram name="uniF000">
 /* VTT 4.2 compiler */
 SVTCA[Y]
