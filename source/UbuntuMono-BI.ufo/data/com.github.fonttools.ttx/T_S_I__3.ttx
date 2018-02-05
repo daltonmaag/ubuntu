@@ -20507,62 +20507,6 @@ Smooth()
 
     </glyphProgram>
 
-    <glyphProgram name="uniEFFD">
-/* Y direction */
-YAnchor(25)
-YDist(25,18,&gt;=)
-YAnchor(36)
-YDist(36,3,&gt;=)
-YIPAnchor(25,12,36)
-YDelta(12,1@16..20)
-YDist(12,9,&gt;=)
-YInterpolate(9,30,12)
-YAnchor(42)
-YDist(42,54,&gt;=)
-YAnchor(48)
-YDist(48,60,&gt;=)
-YIPAnchor(48,72,42)
-YDelta(72,7/8@59)
-YLink(72,66,154,&gt;=)
-YDelta(66,1@43..47;60..61)
-YAnchor(78)
-YLink(78,84,190,&gt;=)
-
-/* X direction */
-XDist(87,39,&lt;)
-XDist(39,57,&gt;=)
-XDelta(57,1/4@29,-5/8@30,-1/8@36..38,1/2@49)
-XDist(39,45,&gt;=)
-XDelta(45,1@15..16)
-XDist(45,51,&gt;=)
-XDelta(51,-1/4@27,-1/8@28,5/8@29,1/2@30,-1/8@34..35,5/8@48;68..69)
-XIPAnchor(45,69,39)
-XDelta(69,1/2@21,1@55..59)
-XLink(69,63,231,&gt;=)
-XDelta(63,-1/2@28..29,-5/8@30,-7/8@31,-5/8@32..35,1@43..45,-1@46..50;55..59;64)
-XDist(88,33,&lt;)
-XDist(33,6,&gt;=)
-XShift(33,30)
-XDelta(30,1/8@15)
-XDist(33,38,&gt;=)
-XDelta(38,-1@13..14,1/2@21,5/8@22)
-XDist(33,28,&lt;)
-XDist(28,11,&gt;=)
-XDist(28,15,&gt;=)
-XDist(28,22,&gt;=)
-XDelta(22,-1@9;13..16)
-XIPAnchor(33,81,39)
-XDelta(81,-3/8@21,5/8@22,1@32;46,-1@63..64)
-XLink(81,75,208,&gt;=)
-XDelta(75,-1@22,-5/8@34)
-
-XDelta(81,5/8@23..24;27..28;36)
-Smooth()
-YBDelta(21,1/8@39..42)
-XDelta(75,-1/8@21)
-
-    </glyphProgram>
-
     <glyphProgram name="uniF000">
 /* Y direction */
 YAnchor(10,2)

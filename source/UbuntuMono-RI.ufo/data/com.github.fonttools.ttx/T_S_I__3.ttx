@@ -19918,47 +19918,6 @@ Smooth()
 
     </glyphProgram>
 
-    <glyphProgram name="uniEFFD">
-/* Y direction */
-YAnchor(25)
-YDist(25,18,&gt;=)
-YAnchor(36)
-YDist(36,3,&gt;=)
-YIPAnchor(25,11,3)
-YDist(11,10,&gt;=)
-YAnchor(42)
-YDist(42,54,&gt;=)
-YAnchor(48)
-YDist(48,60,&gt;=)
-YIPAnchor(60,66,72,54)
-YAnchor(78)
-YDist(78,84,&gt;=)
-
-/* X direction */
-XAnchor(33)
-XDist(33,6,&gt;=)
-XShift(33,28)
-XAnchor(28)
-XDist(28,15,&gt;=)
-XDist(33,38,&gt;=)
-XShift(38,10)
-XAnchor(10)
-XShift(38,22)
-XAnchor(22)
-XAnchor(39)
-XDist(39,57,&gt;=)
-XDist(57,51,&gt;=)
-XDist(51,45,&gt;=)
-XShift(45,81)
-XAnchor(81)
-XShift(81,75)
-XAnchor(75)
-XIPAnchor(57,69,63,51)
-
-Smooth()
-
-    </glyphProgram>
-
     <glyphProgram name="uniFFFD">
 /* Y direction */
 YAnchor(1)

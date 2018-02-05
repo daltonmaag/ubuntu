@@ -32171,59 +32171,6 @@ IUP[Y]
 
     </glyphProgram>
 
-    <glyphProgram name="uniEFFD">
-/* VTT 4.2 compiler */
-SVTCA[Y]
-MDAP[R], 25
-MDRP[m&gt;RBl], 18
-MDAP[R], 36
-MDRP[m&gt;RBl], 3
-SRP1[], 25
-IP[], 11
-MDAP[R], 11
-MDRP[m&gt;RBl], 10
-MDAP[R], 42
-MDRP[m&gt;RBl], 54
-MDAP[R], 48
-MDRP[m&gt;RBl], 60
-SRP1[], 54
-IP[], 66
-IP[], 72
-MDAP[R], 66
-MDAP[R], 72
-MDAP[R], 78
-MDRP[m&gt;RBl], 84
-SVTCA[X]
-MDAP[R], 33
-MIRP[m&gt;RBl], 6, 152
-SHP[1], 28
-MDAP[R], 28
-MIRP[m&gt;RBl], 15, 152
-SRP0[], 33
-MDRP[m&gt;RBl], 38
-SHP[2], 10
-MDAP[R], 10
-SHP[2], 22
-MDAP[R], 22
-MDAP[R], 39
-MIRP[M&gt;RBl], 57, 152
-MDRP[M&gt;RGr], 51
-MIRP[m&gt;RBl], 45, 152
-SHP[2], 81
-MDAP[R], 81
-SHP[1], 75
-MDAP[R], 75
-SRP1[], 57
-SRP2[], 51
-IP[], 69
-IP[], 63
-MDAP[R], 69
-MDAP[R], 63
-IUP[X]
-IUP[Y]
-
-    </glyphProgram>
-
     <glyphProgram name="uniF000">
 /* VTT 4.2 compiler */
 SVTCA[Y]

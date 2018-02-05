@@ -8,6 +8,9 @@ release/
 tools/CacheTT/
 tools/FontTools.exe
 tools/FontTools/
+venv
+.mypy_cache
+.ropeproject
 
 # Python byte-compiled / optimized / DLL files
 __pycache__/

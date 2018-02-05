@@ -3,10 +3,10 @@
 	<unicode hex="EFFD"/>
 	<advance width="1352"/>
 	<outline>
-		<component base="zerosuperior" yOffset="-305"/>
+		<component base="zeroinferior"/>
 		<component base="period" xOffset="280"/>
-		<component base="eightsuperior" xOffset="512" yOffset="-305"/>
-		<component base="zerosuperior" xOffset="792" yOffset="-305"/>
-		<component base="zerosuperior" xOffset="1072" yOffset="-305"/>
+		<component base="eightinferior" xOffset="512"/>
+		<component base="threeinferior" xOffset="792"/>
+		<component base="zeroinferior" xOffset="1072"/>
 	</outline>
 </glyph>
