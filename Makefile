@@ -49,6 +49,8 @@ update-requirements:
 
 update-version: VERSION.txt
 	python tools/update-version.py
+	make vtt
+	python tools/update-vtt.py
 
 # Run when VTT compilation fails due to unexpected offsets, etc.
 update-vtt: $(VTT_TTF) $(VTT_MONO_TTF)
